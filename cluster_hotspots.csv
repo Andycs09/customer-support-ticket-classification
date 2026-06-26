@@ -1,0 +1,1393 @@
+cluster,cluster_label,Tech_City,ticket_count
+28,Software Issue,Surat,66
+28,Software Issue,Nashik,65
+28,Software Issue,Jaipur,62
+28,Software Issue,Salem,61
+28,Software Issue,Jamshedpur,60
+28,Software Issue,Kanpur,59
+28,Software Issue,Mohali,59
+28,Software Issue,Jodhpur,58
+28,Software Issue,Kochi,58
+28,Software Issue,Agra,57
+28,Software Issue,Guwahati,57
+28,Software Issue,Faridabad,56
+28,Software Issue,Visakhapatnam,56
+28,Software Issue,Chennai,55
+28,Software Issue,Patna,55
+28,Software Issue,Madurai,55
+28,Software Issue,Bhubaneswar,53
+28,Software Issue,Vadodara,52
+28,Software Issue,Coimbatore,52
+28,Software Issue,Kolkata,52
+28,Software Issue,Hubli,51
+28,Software Issue,Mysore,51
+28,Software Issue,Warangal,51
+28,Software Issue,Siliguri,51
+28,Software Issue,Pune,51
+28,Software Issue,Nagpur,50
+28,Software Issue,Gurgaon,50
+28,Software Issue,Tiruchirappalli,50
+28,Software Issue,Mangalore,49
+28,Software Issue,Raipur,49
+28,Software Issue,Bhopal,49
+28,Software Issue,Hyderabad,49
+28,Software Issue,Chandigarh,48
+28,Software Issue,Belgaum,48
+28,Software Issue,Amritsar,48
+28,Software Issue,Vijayawada,48
+28,Software Issue,Mumbai,47
+28,Software Issue,Delhi,46
+28,Software Issue,Dehradun,45
+28,Software Issue,Ranchi,45
+28,Software Issue,Noida,45
+28,Software Issue,Ghaziabad,45
+28,Software Issue,Udaipur,43
+28,Software Issue,Gwalior,43
+28,Software Issue,Indore,42
+28,Software Issue,Thiruvananthapuram,41
+28,Software Issue,Ahmedabad,40
+28,Software Issue,Bangalore,35
+28,Software Issue,Aurangabad,35
+28,Software Issue,Lucknow,31
+20,Data Recovery,Jaipur,18
+20,Data Recovery,Agra,14
+24,Intermittent Issue,Thiruvananthapuram,13
+15,Error Message,Jaipur,13
+20,Data Recovery,Pune,13
+6,Urgent Support Request,Indore,13
+20,Data Recovery,Nagpur,13
+20,Data Recovery,Hyderabad,13
+24,Intermittent Issue,Coimbatore,13
+6,Urgent Support Request,Mysore,12
+6,Urgent Support Request,Delhi,12
+24,Intermittent Issue,Belgaum,12
+20,Data Recovery,Warangal,12
+26,Security Issue,Ranchi,12
+26,Security Issue,Faridabad,12
+6,Urgent Support Request,Jamshedpur,12
+20,Data Recovery,Thiruvananthapuram,12
+20,Data Recovery,Amritsar,12
+24,Intermittent Issue,Nashik,12
+24,Intermittent Issue,Mysore,12
+6,Urgent Support Request,Noida,11
+20,Data Recovery,Noida,11
+24,Intermittent Issue,Raipur,11
+24,Intermittent Issue,Mohali,11
+6,Urgent Support Request,Vadodara,11
+15,Error Message,Nashik,11
+15,Error Message,Bhopal,11
+20,Data Recovery,Vijayawada,11
+15,Error Message,Siliguri,11
+24,Intermittent Issue,Dehradun,11
+15,Error Message,Hubli,11
+24,Intermittent Issue,Vadodara,11
+0,Firmware Update Error,Warangal,11
+0,Firmware Update Error,Chandigarh,11
+6,Urgent Support Request,Dehradun,11
+0,Firmware Update Error,Thiruvananthapuram,11
+20,Data Recovery,Jodhpur,11
+26,Security Issue,Pune,11
+26,Security Issue,Dehradun,11
+26,Security Issue,Mysore,11
+6,Urgent Support Request,Jodhpur,11
+6,Urgent Support Request,Kochi,11
+20,Data Recovery,Surat,10
+20,Data Recovery,Aurangabad,10
+15,Error Message,Thiruvananthapuram,10
+20,Data Recovery,Belgaum,10
+19,Configuration Issue,Ghaziabad,10
+20,Data Recovery,Kolkata,10
+20,Data Recovery,Udaipur,10
+20,Data Recovery,Vadodara,10
+20,Data Recovery,Kochi,10
+20,Data Recovery,Chandigarh,10
+20,Data Recovery,Patna,10
+20,Data Recovery,Dehradun,10
+0,Firmware Update Error,Hyderabad,10
+21,Account Access Issue,Agra,10
+20,Data Recovery,Gwalior,10
+5,Battery Life Issue,Mohali,10
+24,Intermittent Issue,Patna,10
+26,Security Issue,Indore,10
+6,Urgent Support Request,Ahmedabad,10
+26,Security Issue,Noida,10
+5,Battery Life Issue,Mysore,10
+6,Urgent Support Request,Siliguri,10
+6,Urgent Support Request,Surat,10
+26,Security Issue,Udaipur,10
+6,Urgent Support Request,Chennai,10
+26,Security Issue,Mohali,10
+11,Hardware Issue,Mohali,10
+13,Hardware Issue,Ranchi,10
+20,Data Recovery,Delhi,10
+15,Error Message,Delhi,10
+15,Error Message,Faridabad,10
+24,Intermittent Issue,Faridabad,10
+5,Battery Life Issue,Coimbatore,9
+15,Error Message,Kochi,9
+6,Urgent Support Request,Raipur,9
+0,Firmware Update Error,Amritsar,9
+6,Urgent Support Request,Kolkata,9
+19,Configuration Issue,Jaipur,9
+15,Error Message,Noida,9
+15,Error Message,Tiruchirappalli,9
+6,Urgent Support Request,Udaipur,9
+0,Firmware Update Error,Bangalore,9
+15,Error Message,Bangalore,9
+0,Firmware Update Error,Jodhpur,9
+24,Intermittent Issue,Madurai,9
+24,Intermittent Issue,Siliguri,9
+24,Intermittent Issue,Ghaziabad,9
+24,Intermittent Issue,Guwahati,9
+24,Intermittent Issue,Indore,9
+24,Intermittent Issue,Mangalore,9
+24,Intermittent Issue,Mumbai,9
+24,Intermittent Issue,Noida,9
+0,Firmware Update Error,Siliguri,9
+20,Data Recovery,Siliguri,9
+26,Security Issue,Ahmedabad,9
+26,Security Issue,Hubli,9
+26,Security Issue,Jaipur,9
+26,Security Issue,Lucknow,9
+26,Security Issue,Nashik,9
+26,Security Issue,Salem,9
+4,Hardware Issue,Mysore,9
+4,Hardware Issue,Warangal,9
+0,Firmware Update Error,Nagpur,9
+20,Data Recovery,Nashik,9
+20,Data Recovery,Mohali,9
+0,Firmware Update Error,Pune,9
+20,Data Recovery,Madurai,9
+26,Security Issue,Hyderabad,8
+24,Intermittent Issue,Ranchi,8
+6,Urgent Support Request,Ranchi,8
+20,Data Recovery,Mysore,8
+6,Urgent Support Request,Nashik,8
+24,Intermittent Issue,Warangal,8
+6,Urgent Support Request,Mangalore,8
+20,Data Recovery,Bangalore,8
+26,Security Issue,Delhi,8
+20,Data Recovery,Bhubaneswar,8
+6,Urgent Support Request,Thiruvananthapuram,8
+26,Security Issue,Kolkata,8
+20,Data Recovery,Kanpur,8
+26,Security Issue,Nagpur,8
+6,Urgent Support Request,Bhopal,8
+6,Urgent Support Request,Bangalore,8
+20,Data Recovery,Coimbatore,8
+6,Urgent Support Request,Agra,8
+20,Data Recovery,Jamshedpur,8
+26,Security Issue,Vijayawada,8
+26,Security Issue,Visakhapatnam,8
+24,Intermittent Issue,Pune,8
+15,Error Message,Surat,8
+20,Data Recovery,Visakhapatnam,8
+7,Productivity Issue,Warangal,8
+21,Account Access Issue,Jamshedpur,8
+23,Account Recovery,Madurai,8
+24,Intermittent Issue,Amritsar,8
+15,Error Message,Kanpur,8
+24,Intermittent Issue,Bangalore,8
+15,Error Message,Indore,8
+20,Data Recovery,Ranchi,8
+15,Error Message,Guwahati,8
+17,Hardware Issue,Mysore,8
+18,Network Issue,Jaipur,8
+15,Error Message,Belgaum,8
+24,Intermittent Issue,Lucknow,8
+14,Software Issue,Vadodara,8
+0,Firmware Update Error,Ahmedabad,8
+20,Data Recovery,Gurgaon,8
+13,Hardware Issue,Lucknow,8
+12,Charging Issue,Vijayawada,8
+19,Configuration Issue,Gwalior,8
+11,Hardware Issue,Bhubaneswar,8
+10,Hardware Issue,Ranchi,8
+9,Network Issue,Nashik,8
+20,Data Recovery,Faridabad,8
+0,Firmware Update Error,Agra,8
+0,Firmware Update Error,Lucknow,8
+0,Firmware Update Error,Dehradun,8
+0,Firmware Update Error,Kochi,8
+0,Firmware Update Error,Mangalore,8
+3,Noise,Ranchi,8
+0,Firmware Update Error,Gwalior,8
+0,Firmware Update Error,Guwahati,8
+0,Firmware Update Error,Ghaziabad,8
+0,Firmware Update Error,Surat,8
+3,Noise,Gurgaon,8
+0,Firmware Update Error,Kolkata,8
+0,Firmware Update Error,Vadodara,8
+0,Firmware Update Error,Coimbatore,8
+0,Firmware Update Error,Bhubaneswar,8
+12,Charging Issue,Hubli,7
+17,Hardware Issue,Kochi,7
+5,Battery Life Issue,Kolkata,7
+5,Battery Life Issue,Kanpur,7
+17,Hardware Issue,Mangalore,7
+23,Account Recovery,Gwalior,7
+23,Account Recovery,Indore,7
+12,Charging Issue,Guwahati,7
+26,Security Issue,Gwalior,7
+12,Charging Issue,Faridabad,7
+26,Security Issue,Chandigarh,7
+7,Productivity Issue,Mangalore,7
+26,Security Issue,Chennai,7
+26,Security Issue,Siliguri,7
+1,Application Issue,Amritsar,7
+1,Application Issue,Jamshedpur,7
+22,Account Locked,Dehradun,7
+12,Charging Issue,Patna,7
+12,Charging Issue,Pune,7
+12,Charging Issue,Ranchi,7
+2,Network Issue,Dehradun,7
+26,Security Issue,Patna,7
+9,Network Issue,Tiruchirappalli,7
+5,Battery Life Issue,Patna,7
+9,Network Issue,Hubli,7
+26,Security Issue,Mumbai,7
+9,Network Issue,Dehradun,7
+13,Hardware Issue,Coimbatore,7
+20,Data Recovery,Bhopal,7
+9,Network Issue,Agra,7
+16,Application Crash,Guwahati,7
+15,Error Message,Gurgaon,7
+6,Urgent Support Request,Nagpur,7
+10,Hardware Issue,Gurgaon,7
+3,Noise,Hyderabad,7
+7,Productivity Issue,Gwalior,7
+24,Intermittent Issue,Bhopal,7
+24,Intermittent Issue,Hubli,7
+18,Network Issue,Gwalior,7
+15,Error Message,Hyderabad,7
+1,Application Issue,Tiruchirappalli,7
+15,Error Message,Jamshedpur,7
+0,Firmware Update Error,Delhi,7
+6,Urgent Support Request,Warangal,7
+15,Error Message,Patna,7
+11,Hardware Issue,Bangalore,7
+10,Hardware Issue,Raipur,7
+15,Error Message,Jodhpur,7
+24,Intermittent Issue,Gurgaon,7
+24,Intermittent Issue,Aurangabad,7
+26,Security Issue,Coimbatore,7
+5,Battery Life Issue,Agra,7
+11,Hardware Issue,Noida,7
+5,Battery Life Issue,Bhubaneswar,7
+26,Security Issue,Surat,7
+3,Noise,Siliguri,7
+10,Hardware Issue,Amritsar,7
+6,Urgent Support Request,Pune,7
+24,Intermittent Issue,Tiruchirappalli,7
+24,Intermittent Issue,Visakhapatnam,7
+24,Intermittent Issue,Surat,7
+21,Account Access Issue,Patna,6
+15,Error Message,Chennai,6
+15,Error Message,Aurangabad,6
+20,Data Recovery,Tiruchirappalli,6
+26,Security Issue,Guwahati,6
+2,Network Issue,Jamshedpur,6
+26,Security Issue,Jamshedpur,6
+21,Account Access Issue,Faridabad,6
+26,Security Issue,Thiruvananthapuram,6
+15,Error Message,Amritsar,6
+14,Software Issue,Pune,6
+3,Noise,Kochi,6
+1,Application Issue,Hyderabad,6
+7,Productivity Issue,Gurgaon,6
+7,Productivity Issue,Nashik,6
+26,Security Issue,Ghaziabad,6
+1,Application Issue,Faridabad,6
+26,Security Issue,Raipur,6
+7,Productivity Issue,Jamshedpur,6
+21,Account Access Issue,Chandigarh,6
+23,Account Recovery,Bhopal,6
+14,Software Issue,Dehradun,6
+14,Software Issue,Chandigarh,6
+11,Hardware Issue,Vijayawada,6
+23,Account Recovery,Siliguri,6
+1,Application Issue,Nashik,6
+23,Account Recovery,Tiruchirappalli,6
+24,Intermittent Issue,Salem,6
+11,Hardware Issue,Nagpur,6
+23,Account Recovery,Vijayawada,6
+2,Network Issue,Bhubaneswar,6
+10,Hardware Issue,Indore,6
+24,Intermittent Issue,Nagpur,6
+24,Intermittent Issue,Bhubaneswar,6
+10,Hardware Issue,Kochi,6
+2,Network Issue,Aurangabad,6
+2,Network Issue,Amritsar,6
+24,Intermittent Issue,Delhi,6
+10,Hardware Issue,Nagpur,6
+24,Intermittent Issue,Kolkata,6
+10,Hardware Issue,Salem,6
+24,Intermittent Issue,Gwalior,6
+23,Account Recovery,Nashik,6
+9,Network Issue,Thiruvananthapuram,6
+12,Charging Issue,Belgaum,6
+13,Hardware Issue,Agra,6
+14,Software Issue,Bhubaneswar,6
+26,Security Issue,Belgaum,6
+13,Hardware Issue,Vijayawada,6
+26,Security Issue,Amritsar,6
+22,Account Locked,Bhubaneswar,6
+22,Account Locked,Patna,6
+13,Hardware Issue,Bhubaneswar,6
+22,Account Locked,Salem,6
+23,Account Recovery,Bangalore,6
+23,Account Recovery,Mumbai,6
+23,Account Recovery,Belgaum,6
+15,Error Message,Lucknow,6
+12,Charging Issue,Salem,6
+9,Network Issue,Jodhpur,6
+23,Account Recovery,Coimbatore,6
+12,Charging Issue,Mysore,6
+12,Charging Issue,Mangalore,6
+23,Account Recovery,Kochi,6
+15,Error Message,Kolkata,6
+11,Hardware Issue,Patna,6
+15,Error Message,Madurai,6
+6,Urgent Support Request,Gurgaon,6
+17,Hardware Issue,Raipur,6
+0,Firmware Update Error,Mumbai,6
+17,Hardware Issue,Pune,6
+17,Hardware Issue,Noida,6
+3,Noise,Bangalore,6
+0,Firmware Update Error,Nashik,6
+5,Battery Life Issue,Nagpur,6
+5,Battery Life Issue,Noida,6
+0,Firmware Update Error,Ranchi,6
+19,Configuration Issue,Patna,6
+17,Hardware Issue,Ahmedabad,6
+0,Firmware Update Error,Udaipur,6
+16,Application Crash,Ranchi,6
+4,Hardware Issue,Bhubaneswar,6
+4,Hardware Issue,Bangalore,6
+6,Urgent Support Request,Chandigarh,6
+20,Data Recovery,Ahmedabad,6
+6,Urgent Support Request,Coimbatore,6
+1,Application Issue,Bangalore,6
+5,Battery Life Issue,Delhi,6
+5,Battery Life Issue,Chennai,6
+5,Battery Life Issue,Belgaum,6
+18,Network Issue,Delhi,6
+0,Firmware Update Error,Bhopal,6
+18,Network Issue,Ranchi,6
+18,Network Issue,Indore,6
+4,Hardware Issue,Kolkata,6
+0,Firmware Update Error,Faridabad,6
+4,Hardware Issue,Mangalore,6
+4,Hardware Issue,Delhi,6
+4,Hardware Issue,Noida,6
+4,Hardware Issue,Raipur,6
+5,Battery Life Issue,Bangalore,6
+18,Network Issue,Vijayawada,6
+0,Firmware Update Error,Hubli,6
+19,Configuration Issue,Amritsar,6
+4,Hardware Issue,Vijayawada,6
+19,Configuration Issue,Bhopal,6
+19,Configuration Issue,Chandigarh,6
+5,Battery Life Issue,Amritsar,6
+17,Hardware Issue,Vadodara,6
+6,Urgent Support Request,Faridabad,6
+5,Battery Life Issue,Siliguri,6
+6,Urgent Support Request,Mohali,6
+20,Data Recovery,Indore,6
+16,Application Crash,Gurgaon,6
+3,Noise,Vadodara,6
+20,Data Recovery,Ghaziabad,6
+15,Error Message,Udaipur,6
+15,Error Message,Salem,6
+15,Error Message,Warangal,6
+20,Data Recovery,Chennai,6
+15,Error Message,Ranchi,6
+20,Data Recovery,Lucknow,6
+16,Application Crash,Coimbatore,6
+6,Urgent Support Request,Patna,6
+6,Urgent Support Request,Kanpur,6
+16,Application Crash,Jaipur,6
+16,Application Crash,Jamshedpur,6
+6,Urgent Support Request,Madurai,6
+20,Data Recovery,Guwahati,6
+3,Noise,Thiruvananthapuram,6
+20,Data Recovery,Hubli,6
+6,Urgent Support Request,Guwahati,6
+18,Network Issue,Ahmedabad,5
+15,Error Message,Visakhapatnam,5
+11,Hardware Issue,Pune,5
+17,Hardware Issue,Udaipur,5
+19,Configuration Issue,Bangalore,5
+15,Error Message,Dehradun,5
+23,Account Recovery,Pune,5
+11,Hardware Issue,Visakhapatnam,5
+15,Error Message,Coimbatore,5
+23,Account Recovery,Ranchi,5
+23,Account Recovery,Thiruvananthapuram,5
+11,Hardware Issue,Surat,5
+16,Application Crash,Agra,5
+3,Noise,Hubli,5
+2,Network Issue,Nashik,5
+24,Intermittent Issue,Agra,5
+15,Error Message,Vadodara,5
+18,Network Issue,Vadodara,5
+18,Network Issue,Mangalore,5
+10,Hardware Issue,Warangal,5
+18,Network Issue,Pune,5
+18,Network Issue,Kolkata,5
+11,Hardware Issue,Aurangabad,5
+18,Network Issue,Jodhpur,5
+15,Error Message,Nagpur,5
+20,Data Recovery,Mangalore,5
+11,Hardware Issue,Belgaum,5
+20,Data Recovery,Salem,5
+2,Network Issue,Ahmedabad,5
+18,Network Issue,Siliguri,5
+11,Hardware Issue,Coimbatore,5
+11,Hardware Issue,Dehradun,5
+2,Network Issue,Hubli,5
+2,Network Issue,Gwalior,5
+18,Network Issue,Surat,5
+18,Network Issue,Ghaziabad,5
+11,Hardware Issue,Indore,5
+18,Network Issue,Udaipur,5
+15,Error Message,Ghaziabad,5
+17,Hardware Issue,Thiruvananthapuram,5
+23,Account Recovery,Visakhapatnam,5
+15,Error Message,Chandigarh,5
+21,Account Access Issue,Madurai,5
+23,Account Recovery,Nagpur,5
+14,Software Issue,Agra,5
+13,Hardware Issue,Jodhpur,5
+3,Noise,Lucknow,5
+13,Hardware Issue,Madurai,5
+22,Account Locked,Kanpur,5
+13,Hardware Issue,Mysore,5
+19,Configuration Issue,Warangal,5
+22,Account Locked,Indore,5
+4,Hardware Issue,Ghaziabad,5
+14,Software Issue,Salem,5
+16,Application Crash,Indore,5
+16,Application Crash,Raipur,5
+19,Configuration Issue,Dehradun,5
+16,Application Crash,Patna,5
+16,Application Crash,Mumbai,5
+16,Application Crash,Mangalore,5
+16,Application Crash,Jodhpur,5
+14,Software Issue,Guwahati,5
+21,Account Access Issue,Gwalior,5
+14,Software Issue,Hubli,5
+16,Application Crash,Lucknow,5
+14,Software Issue,Hyderabad,5
+14,Software Issue,Mangalore,5
+13,Hardware Issue,Hyderabad,5
+22,Account Locked,Mysore,5
+16,Application Crash,Tiruchirappalli,5
+16,Application Crash,Udaipur,5
+15,Error Message,Bhubaneswar,5
+23,Account Recovery,Kanpur,5
+14,Software Issue,Kolkata,5
+23,Account Recovery,Hyderabad,5
+17,Hardware Issue,Mumbai,5
+17,Hardware Issue,Mohali,5
+19,Configuration Issue,Gurgaon,5
+12,Charging Issue,Nashik,5
+17,Hardware Issue,Jodhpur,5
+19,Configuration Issue,Hyderabad,5
+17,Hardware Issue,Hubli,5
+17,Hardware Issue,Gurgaon,5
+14,Software Issue,Visakhapatnam,5
+19,Configuration Issue,Mumbai,5
+12,Charging Issue,Tiruchirappalli,5
+19,Configuration Issue,Nashik,5
+12,Charging Issue,Warangal,5
+17,Hardware Issue,Chennai,5
+23,Account Recovery,Ahmedabad,5
+15,Error Message,Mumbai,5
+22,Account Locked,Ranchi,5
+10,Hardware Issue,Vijayawada,5
+18,Network Issue,Nagpur,5
+24,Intermittent Issue,Hyderabad,5
+26,Security Issue,Madurai,5
+6,Urgent Support Request,Vijayawada,5
+27,Guidance Request,Hyderabad,5
+7,Productivity Issue,Bangalore,5
+7,Productivity Issue,Chennai,5
+27,Guidance Request,Chandigarh,5
+27,Guidance Request,Bhubaneswar,5
+7,Productivity Issue,Delhi,5
+26,Security Issue,Warangal,5
+7,Productivity Issue,Mumbai,5
+7,Productivity Issue,Nagpur,5
+7,Productivity Issue,Noida,5
+1,Application Issue,Jaipur,5
+1,Application Issue,Jodhpur,5
+25,Software Issue,Faridabad,5
+26,Security Issue,Jodhpur,5
+1,Application Issue,Mangalore,5
+26,Security Issue,Bhubaneswar,5
+26,Security Issue,Bhopal,5
+1,Application Issue,Mumbai,5
+9,Network Issue,Bangalore,5
+25,Software Issue,Raipur,5
+9,Network Issue,Gwalior,5
+25,Software Issue,Kochi,5
+9,Network Issue,Kolkata,5
+25,Software Issue,Gwalior,5
+25,Software Issue,Ghaziabad,5
+6,Urgent Support Request,Tiruchirappalli,5
+3,Noise,Salem,5
+6,Urgent Support Request,Mumbai,5
+6,Urgent Support Request,Lucknow,5
+4,Hardware Issue,Gurgaon,5
+0,Firmware Update Error,Aurangabad,5
+0,Firmware Update Error,Belgaum,5
+0,Firmware Update Error,Chennai,5
+4,Hardware Issue,Kanpur,5
+0,Firmware Update Error,Gurgaon,5
+4,Hardware Issue,Ranchi,5
+0,Firmware Update Error,Jaipur,5
+5,Battery Life Issue,Chandigarh,5
+5,Battery Life Issue,Faridabad,5
+0,Firmware Update Error,Mysore,5
+5,Battery Life Issue,Indore,5
+5,Battery Life Issue,Jamshedpur,5
+5,Battery Life Issue,Jodhpur,5
+0,Firmware Update Error,Noida,5
+5,Battery Life Issue,Mumbai,5
+5,Battery Life Issue,Nashik,5
+0,Firmware Update Error,Raipur,5
+5,Battery Life Issue,Ranchi,5
+0,Firmware Update Error,Salem,5
+5,Battery Life Issue,Thiruvananthapuram,5
+0,Firmware Update Error,Tiruchirappalli,5
+6,Urgent Support Request,Bhubaneswar,5
+6,Urgent Support Request,Hyderabad,5
+6,Urgent Support Request,Jaipur,5
+9,Network Issue,Patna,5
+1,Application Issue,Hubli,5
+10,Hardware Issue,Ghaziabad,5
+25,Software Issue,Ahmedabad,5
+10,Hardware Issue,Madurai,5
+10,Hardware Issue,Bangalore,5
+10,Hardware Issue,Mysore,5
+1,Application Issue,Salem,5
+1,Application Issue,Vadodara,5
+10,Hardware Issue,Pune,5
+1,Application Issue,Raipur,5
+1,Application Issue,Siliguri,5
+10,Hardware Issue,Jaipur,5
+25,Software Issue,Agra,5
+25,Software Issue,Coimbatore,5
+10,Hardware Issue,Chennai,5
+4,Hardware Issue,Ahmedabad,4
+16,Application Crash,Bhubaneswar,4
+16,Application Crash,Nashik,4
+3,Noise,Raipur,4
+27,Guidance Request,Mumbai,4
+24,Intermittent Issue,Ahmedabad,4
+16,Application Crash,Nagpur,4
+27,Guidance Request,Noida,4
+16,Application Crash,Mysore,4
+16,Application Crash,Bhopal,4
+16,Application Crash,Mohali,4
+16,Application Crash,Delhi,4
+11,Hardware Issue,Jodhpur,4
+16,Application Crash,Kolkata,4
+1,Application Issue,Coimbatore,4
+3,Noise,Warangal,4
+16,Application Crash,Gwalior,4
+3,Noise,Patna,4
+2,Network Issue,Surat,4
+6,Urgent Support Request,Hubli,4
+6,Urgent Support Request,Ghaziabad,4
+2,Network Issue,Udaipur,4
+15,Error Message,Vijayawada,4
+20,Data Recovery,Mumbai,4
+11,Hardware Issue,Kolkata,4
+3,Noise,Bhubaneswar,4
+14,Software Issue,Warangal,4
+15,Error Message,Agra,4
+15,Error Message,Ahmedabad,4
+18,Network Issue,Nashik,4
+2,Network Issue,Gurgaon,4
+3,Noise,Jamshedpur,4
+1,Application Issue,Ghaziabad,4
+7,Productivity Issue,Madurai,4
+7,Productivity Issue,Jaipur,4
+1,Application Issue,Dehradun,4
+11,Hardware Issue,Nashik,4
+7,Productivity Issue,Ghaziabad,4
+7,Productivity Issue,Faridabad,4
+3,Noise,Guwahati,4
+11,Hardware Issue,Mysore,4
+23,Account Recovery,Vadodara,4
+27,Guidance Request,Gwalior,4
+7,Productivity Issue,Belgaum,4
+10,Hardware Issue,Guwahati,4
+7,Productivity Issue,Aurangabad,4
+15,Error Message,Mangalore,4
+15,Error Message,Mohali,4
+7,Productivity Issue,Amritsar,4
+15,Error Message,Mysore,4
+7,Productivity Issue,Ahmedabad,4
+6,Urgent Support Request,Aurangabad,4
+6,Urgent Support Request,Visakhapatnam,4
+16,Application Crash,Noida,4
+16,Application Crash,Salem,4
+6,Urgent Support Request,Amritsar,4
+10,Hardware Issue,Mumbai,4
+17,Hardware Issue,Salem,4
+0,Firmware Update Error,Madurai,4
+5,Battery Life Issue,Aurangabad,4
+0,Firmware Update Error,Kanpur,4
+19,Configuration Issue,Bhubaneswar,4
+0,Firmware Update Error,Indore,4
+4,Hardware Issue,Udaipur,4
+4,Hardware Issue,Tiruchirappalli,4
+19,Configuration Issue,Ahmedabad,4
+18,Network Issue,Bhopal,4
+4,Hardware Issue,Salem,4
+4,Hardware Issue,Pune,4
+24,Intermittent Issue,Kochi,4
+4,Hardware Issue,Nashik,4
+18,Network Issue,Gurgaon,4
+4,Hardware Issue,Nagpur,4
+4,Hardware Issue,Mumbai,4
+4,Hardware Issue,Madurai,4
+11,Hardware Issue,Agra,4
+18,Network Issue,Kanpur,4
+18,Network Issue,Kochi,4
+4,Hardware Issue,Gwalior,4
+24,Intermittent Issue,Jodhpur,4
+18,Network Issue,Madurai,4
+24,Intermittent Issue,Jamshedpur,4
+18,Network Issue,Mumbai,4
+18,Network Issue,Noida,4
+0,Firmware Update Error,Mohali,4
+17,Hardware Issue,Patna,4
+5,Battery Life Issue,Warangal,4
+5,Battery Life Issue,Hyderabad,4
+21,Account Access Issue,Bhubaneswar,4
+16,Application Crash,Siliguri,4
+5,Battery Life Issue,Vijayawada,4
+5,Battery Life Issue,Tiruchirappalli,4
+16,Application Crash,Visakhapatnam,4
+10,Hardware Issue,Kanpur,4
+19,Configuration Issue,Surat,4
+19,Configuration Issue,Raipur,4
+17,Hardware Issue,Bhopal,4
+17,Hardware Issue,Bhubaneswar,4
+5,Battery Life Issue,Salem,4
+24,Intermittent Issue,Chandigarh,4
+11,Hardware Issue,Gurgaon,4
+24,Intermittent Issue,Chennai,4
+17,Hardware Issue,Ghaziabad,4
+19,Configuration Issue,Madurai,4
+10,Hardware Issue,Kolkata,4
+4,Hardware Issue,Chennai,4
+11,Hardware Issue,Delhi,4
+17,Hardware Issue,Kanpur,4
+5,Battery Life Issue,Madurai,4
+3,Noise,Ahmedabad,4
+17,Hardware Issue,Lucknow,4
+5,Battery Life Issue,Lucknow,4
+5,Battery Life Issue,Jaipur,4
+17,Hardware Issue,Nagpur,4
+17,Hardware Issue,Nashik,4
+10,Hardware Issue,Dehradun,4
+9,Network Issue,Siliguri,4
+22,Account Locked,Madurai,4
+23,Account Recovery,Amritsar,4
+9,Network Issue,Faridabad,4
+25,Software Issue,Mysore,4
+25,Software Issue,Nashik,4
+22,Account Locked,Nagpur,4
+13,Hardware Issue,Gurgaon,4
+13,Hardware Issue,Guwahati,4
+13,Hardware Issue,Gwalior,4
+13,Hardware Issue,Hubli,4
+9,Network Issue,Bhopal,4
+22,Account Locked,Mumbai,4
+22,Account Locked,Mohali,4
+13,Hardware Issue,Jamshedpur,4
+13,Hardware Issue,Kochi,4
+9,Network Issue,Aurangabad,4
+13,Hardware Issue,Mangalore,4
+25,Software Issue,Udaipur,4
+25,Software Issue,Vadodara,4
+25,Software Issue,Warangal,4
+13,Hardware Issue,Noida,4
+22,Account Locked,Faridabad,4
+3,Noise,Kolkata,4
+13,Hardware Issue,Salem,4
+26,Security Issue,Agra,4
+22,Account Locked,Coimbatore,4
+22,Account Locked,Chennai,4
+24,Intermittent Issue,Vijayawada,4
+26,Security Issue,Aurangabad,4
+25,Software Issue,Mangalore,4
+9,Network Issue,Gurgaon,4
+26,Security Issue,Bangalore,4
+25,Software Issue,Madurai,4
+9,Network Issue,Salem,4
+2,Network Issue,Chandigarh,4
+9,Network Issue,Ranchi,4
+25,Software Issue,Dehradun,4
+23,Account Recovery,Jodhpur,4
+25,Software Issue,Gurgaon,4
+9,Network Issue,Nagpur,4
+23,Account Recovery,Hubli,4
+25,Software Issue,Guwahati,4
+12,Charging Issue,Jodhpur,4
+23,Account Recovery,Gurgaon,4
+12,Charging Issue,Lucknow,4
+23,Account Recovery,Patna,4
+12,Charging Issue,Mumbai,4
+9,Network Issue,Mangalore,4
+25,Software Issue,Indore,4
+12,Charging Issue,Noida,4
+25,Software Issue,Chandigarh,4
+25,Software Issue,Jaipur,4
+9,Network Issue,Kanpur,4
+25,Software Issue,Jamshedpur,4
+12,Charging Issue,Siliguri,4
+23,Account Recovery,Bhubaneswar,4
+12,Charging Issue,Agra,4
+12,Charging Issue,Udaipur,4
+25,Software Issue,Lucknow,4
+3,Noise,Madurai,4
+22,Account Locked,Belgaum,4
+14,Software Issue,Ranchi,4
+11,Hardware Issue,Udaipur,4
+21,Account Access Issue,Kanpur,4
+21,Account Access Issue,Ghaziabad,4
+7,Productivity Issue,Udaipur,4
+11,Hardware Issue,Salem,4
+21,Account Access Issue,Coimbatore,4
+11,Hardware Issue,Thiruvananthapuram,4
+14,Software Issue,Mumbai,4
+1,Application Issue,Kanpur,4
+14,Software Issue,Chennai,4
+21,Account Access Issue,Salem,4
+21,Account Access Issue,Gurgaon,4
+26,Security Issue,Gurgaon,4
+21,Account Access Issue,Hyderabad,4
+14,Software Issue,Kochi,4
+21,Account Access Issue,Surat,4
+26,Security Issue,Kanpur,4
+14,Software Issue,Coimbatore,4
+21,Account Access Issue,Vadodara,4
+22,Account Locked,Agra,4
+22,Account Locked,Ahmedabad,4
+14,Software Issue,Faridabad,4
+26,Security Issue,Vadodara,3
+2,Network Issue,Agra,3
+19,Configuration Issue,Chennai,3
+21,Account Access Issue,Jodhpur,3
+22,Account Locked,Amritsar,3
+23,Account Recovery,Chennai,3
+19,Configuration Issue,Delhi,3
+19,Configuration Issue,Faridabad,3
+21,Account Access Issue,Kochi,3
+27,Guidance Request,Agra,3
+27,Guidance Request,Belgaum,3
+26,Security Issue,Kochi,3
+25,Software Issue,Kanpur,3
+1,Application Issue,Udaipur,3
+21,Account Access Issue,Mangalore,3
+1,Application Issue,Thiruvananthapuram,3
+1,Application Issue,Nagpur,3
+25,Software Issue,Bangalore,3
+25,Software Issue,Hyderabad,3
+19,Configuration Issue,Aurangabad,3
+19,Configuration Issue,Belgaum,3
+1,Application Issue,Pune,3
+21,Account Access Issue,Bhopal,3
+23,Account Recovery,Mangalore,3
+18,Network Issue,Patna,3
+21,Account Access Issue,Belgaum,3
+23,Account Recovery,Lucknow,3
+21,Account Access Issue,Amritsar,3
+1,Application Issue,Guwahati,3
+2,Network Issue,Faridabad,3
+25,Software Issue,Chennai,3
+23,Account Recovery,Jaipur,3
+18,Network Issue,Raipur,3
+1,Application Issue,Warangal,3
+24,Intermittent Issue,Kanpur,3
+18,Network Issue,Salem,3
+23,Account Recovery,Noida,3
+23,Account Recovery,Udaipur,3
+26,Security Issue,Mangalore,3
+1,Application Issue,Gurgaon,3
+23,Account Recovery,Ghaziabad,3
+23,Account Recovery,Faridabad,3
+18,Network Issue,Visakhapatnam,3
+19,Configuration Issue,Agra,3
+23,Account Recovery,Delhi,3
+23,Account Recovery,Mysore,3
+23,Account Recovery,Dehradun,3
+21,Account Access Issue,Pune,3
+19,Configuration Issue,Kochi,3
+27,Guidance Request,Coimbatore,3
+2,Network Issue,Belgaum,3
+23,Account Recovery,Warangal,3
+22,Account Locked,Kochi,3
+1,Application Issue,Ranchi,3
+0,Firmware Update Error,Vijayawada,3
+27,Guidance Request,Kolkata,3
+22,Account Locked,Jodhpur,3
+1,Application Issue,Aurangabad,3
+27,Guidance Request,Madurai,3
+2,Network Issue,Mangalore,3
+22,Account Locked,Guwahati,3
+1,Application Issue,Bhopal,3
+22,Account Locked,Gurgaon,3
+1,Application Issue,Bhubaneswar,3
+27,Guidance Request,Dehradun,3
+2,Network Issue,Mohali,3
+22,Account Locked,Delhi,3
+2,Network Issue,Mysore,3
+21,Account Access Issue,Vijayawada,3
+2,Network Issue,Siliguri,3
+2,Network Issue,Salem,3
+21,Account Access Issue,Warangal,3
+27,Guidance Request,Ranchi,3
+27,Guidance Request,Mohali,3
+2,Network Issue,Pune,3
+27,Guidance Request,Patna,3
+2,Network Issue,Nagpur,3
+1,Application Issue,Indore,3
+2,Network Issue,Visakhapatnam,3
+25,Software Issue,Tiruchirappalli,3
+2,Network Issue,Jodhpur,3
+22,Account Locked,Thiruvananthapuram,3
+19,Configuration Issue,Indore,3
+19,Configuration Issue,Kanpur,3
+22,Account Locked,Surat,3
+2,Network Issue,Noida,3
+22,Account Locked,Siliguri,3
+0,Firmware Update Error,Patna,3
+20,Data Recovery,Raipur,3
+25,Software Issue,Mohali,3
+19,Configuration Issue,Mysore,3
+19,Configuration Issue,Noida,3
+22,Account Locked,Raipur,3
+25,Software Issue,Patna,3
+22,Account Locked,Nashik,3
+19,Configuration Issue,Pune,3
+19,Configuration Issue,Ranchi,3
+21,Account Access Issue,Siliguri,3
+1,Application Issue,Madurai,3
+19,Configuration Issue,Thiruvananthapuram,3
+19,Configuration Issue,Tiruchirappalli,3
+19,Configuration Issue,Udaipur,3
+19,Configuration Issue,Visakhapatnam,3
+1,Application Issue,Surat,3
+21,Account Access Issue,Tiruchirappalli,3
+2,Network Issue,Bangalore,3
+24,Intermittent Issue,Jaipur,3
+4,Hardware Issue,Faridabad,3
+11,Hardware Issue,Vadodara,3
+14,Software Issue,Jaipur,3
+9,Network Issue,Coimbatore,3
+9,Network Issue,Delhi,3
+9,Network Issue,Guwahati,3
+14,Software Issue,Ghaziabad,3
+9,Network Issue,Indore,3
+14,Software Issue,Belgaum,3
+14,Software Issue,Aurangabad,3
+9,Network Issue,Jamshedpur,3
+9,Network Issue,Kochi,3
+9,Network Issue,Madurai,3
+13,Hardware Issue,Tiruchirappalli,3
+13,Hardware Issue,Surat,3
+13,Hardware Issue,Siliguri,3
+13,Hardware Issue,Raipur,3
+13,Hardware Issue,Pune,3
+9,Network Issue,Surat,3
+9,Network Issue,Udaipur,3
+9,Network Issue,Vadodara,3
+13,Hardware Issue,Nagpur,3
+9,Network Issue,Visakhapatnam,3
+13,Hardware Issue,Mohali,3
+9,Network Issue,Chandigarh,3
+14,Software Issue,Jamshedpur,3
+10,Hardware Issue,Agra,3
+14,Software Issue,Jodhpur,3
+7,Productivity Issue,Hyderabad,3
+7,Productivity Issue,Indore,3
+15,Error Message,Gwalior,3
+7,Productivity Issue,Kanpur,3
+7,Productivity Issue,Kolkata,3
+7,Productivity Issue,Lucknow,3
+3,Noise,Kanpur,3
+7,Productivity Issue,Pune,3
+7,Productivity Issue,Ranchi,3
+7,Productivity Issue,Salem,3
+14,Software Issue,Siliguri,3
+7,Productivity Issue,Tiruchirappalli,3
+14,Software Issue,Raipur,3
+7,Productivity Issue,Vijayawada,3
+3,Noise,Nagpur,3
+8,Data Recovery,Jamshedpur,3
+8,Data Recovery,Nashik,3
+14,Software Issue,Mohali,3
+14,Software Issue,Madurai,3
+14,Software Issue,Lucknow,3
+14,Software Issue,Kanpur,3
+9,Network Issue,Warangal,3
+13,Hardware Issue,Kanpur,3
+3,Noise,Dehradun,3
+12,Charging Issue,Indore,3
+11,Hardware Issue,Amritsar,3
+12,Charging Issue,Gurgaon,3
+12,Charging Issue,Ghaziabad,3
+3,Noise,Mohali,3
+11,Hardware Issue,Chandigarh,3
+11,Hardware Issue,Chennai,3
+11,Hardware Issue,Faridabad,3
+11,Hardware Issue,Ghaziabad,3
+11,Hardware Issue,Guwahati,3
+11,Hardware Issue,Gwalior,3
+11,Hardware Issue,Hubli,3
+12,Charging Issue,Bangalore,3
+12,Charging Issue,Aurangabad,3
+11,Hardware Issue,Jaipur,3
+11,Hardware Issue,Jamshedpur,3
+11,Hardware Issue,Kanpur,3
+11,Hardware Issue,Warangal,3
+11,Hardware Issue,Kochi,3
+18,Network Issue,Mohali,3
+11,Hardware Issue,Lucknow,3
+11,Hardware Issue,Ranchi,3
+12,Charging Issue,Hyderabad,3
+12,Charging Issue,Jaipur,3
+10,Hardware Issue,Aurangabad,3
+10,Hardware Issue,Visakhapatnam,3
+13,Hardware Issue,Ghaziabad,3
+13,Hardware Issue,Faridabad,3
+10,Hardware Issue,Bhubaneswar,3
+10,Hardware Issue,Coimbatore,3
+13,Hardware Issue,Chandigarh,3
+13,Hardware Issue,Belgaum,3
+13,Hardware Issue,Bangalore,3
+10,Hardware Issue,Delhi,3
+10,Hardware Issue,Hyderabad,3
+10,Hardware Issue,Jamshedpur,3
+10,Hardware Issue,Jodhpur,3
+10,Hardware Issue,Mohali,3
+10,Hardware Issue,Nashik,3
+12,Charging Issue,Visakhapatnam,3
+12,Charging Issue,Vadodara,3
+3,Noise,Mumbai,3
+10,Hardware Issue,Surat,3
+12,Charging Issue,Raipur,3
+12,Charging Issue,Mohali,3
+12,Charging Issue,Kolkata,3
+12,Charging Issue,Kochi,3
+3,Noise,Delhi,3
+11,Hardware Issue,Mumbai,3
+17,Hardware Issue,Chandigarh,3
+18,Network Issue,Amritsar,3
+3,Noise,Udaipur,3
+16,Application Crash,Belgaum,3
+17,Hardware Issue,Vijayawada,3
+17,Hardware Issue,Tiruchirappalli,3
+16,Application Crash,Chandigarh,3
+16,Application Crash,Warangal,3
+17,Hardware Issue,Surat,3
+3,Noise,Visakhapatnam,3
+5,Battery Life Issue,Vadodara,3
+3,Noise,Noida,3
+5,Battery Life Issue,Udaipur,3
+17,Hardware Issue,Guwahati,3
+17,Hardware Issue,Madurai,3
+5,Battery Life Issue,Bhopal,3
+16,Application Crash,Ghaziabad,3
+3,Noise,Pune,3
+6,Urgent Support Request,Salem,3
+5,Battery Life Issue,Pune,3
+17,Hardware Issue,Kolkata,3
+4,Hardware Issue,Coimbatore,3
+17,Hardware Issue,Jamshedpur,3
+5,Battery Life Issue,Dehradun,3
+16,Application Crash,Kochi,3
+5,Battery Life Issue,Ghaziabad,3
+5,Battery Life Issue,Hubli,3
+18,Network Issue,Agra,3
+17,Hardware Issue,Agra,3
+4,Hardware Issue,Siliguri,3
+3,Noise,Chennai,3
+7,Productivity Issue,Dehradun,3
+17,Hardware Issue,Belgaum,3
+18,Network Issue,Lucknow,3
+17,Hardware Issue,Bangalore,3
+3,Noise,Aurangabad,3
+6,Urgent Support Request,Belgaum,3
+15,Error Message,Pune,3
+7,Productivity Issue,Chandigarh,3
+18,Network Issue,Hubli,3
+18,Network Issue,Guwahati,3
+15,Error Message,Raipur,3
+5,Battery Life Issue,Guwahati,3
+4,Hardware Issue,Lucknow,3
+18,Network Issue,Bangalore,3
+18,Network Issue,Faridabad,3
+4,Hardware Issue,Jodhpur,3
+4,Hardware Issue,Agra,3
+18,Network Issue,Coimbatore,3
+4,Hardware Issue,Belgaum,3
+4,Hardware Issue,Patna,3
+16,Application Crash,Amritsar,3
+10,Hardware Issue,Gwalior,2
+5,Battery Life Issue,Gwalior,2
+4,Hardware Issue,Bhopal,2
+1,Application Issue,Mysore,2
+0,Firmware Update Error,Visakhapatnam,2
+24,Intermittent Issue,Udaipur,2
+1,Application Issue,Patna,2
+10,Hardware Issue,Chandigarh,2
+10,Hardware Issue,Bhopal,2
+10,Hardware Issue,Belgaum,2
+5,Battery Life Issue,Surat,2
+27,Guidance Request,Aurangabad,2
+10,Hardware Issue,Lucknow,2
+11,Hardware Issue,Bhopal,2
+11,Hardware Issue,Mangalore,2
+11,Hardware Issue,Madurai,2
+4,Hardware Issue,Guwahati,2
+4,Hardware Issue,Hubli,2
+4,Hardware Issue,Hyderabad,2
+4,Hardware Issue,Indore,2
+11,Hardware Issue,Hyderabad,2
+4,Hardware Issue,Kochi,2
+4,Hardware Issue,Mohali,2
+4,Hardware Issue,Surat,2
+4,Hardware Issue,Thiruvananthapuram,2
+10,Hardware Issue,Mangalore,2
+4,Hardware Issue,Vadodara,2
+11,Hardware Issue,Ahmedabad,2
+10,Hardware Issue,Vadodara,2
+4,Hardware Issue,Dehradun,2
+0,Firmware Update Error,Jamshedpur,2
+4,Hardware Issue,Aurangabad,2
+5,Battery Life Issue,Ahmedabad,2
+10,Hardware Issue,Tiruchirappalli,2
+10,Hardware Issue,Siliguri,2
+10,Hardware Issue,Noida,2
+10,Hardware Issue,Udaipur,2
+1,Application Issue,Chennai,2
+25,Software Issue,Aurangabad,2
+27,Guidance Request,Ghaziabad,2
+25,Software Issue,Vijayawada,2
+27,Guidance Request,Jodhpur,2
+27,Guidance Request,Jaipur,2
+8,Data Recovery,Thiruvananthapuram,2
+7,Productivity Issue,Agra,2
+1,Application Issue,Mohali,2
+8,Data Recovery,Jaipur,2
+8,Data Recovery,Ghaziabad,2
+1,Application Issue,Kochi,2
+3,Noise,Mangalore,2
+8,Data Recovery,Bangalore,2
+27,Guidance Request,Hubli,2
+7,Productivity Issue,Visakhapatnam,2
+27,Guidance Request,Guwahati,2
+27,Guidance Request,Faridabad,2
+3,Noise,Nashik,2
+7,Productivity Issue,Surat,2
+7,Productivity Issue,Siliguri,2
+27,Guidance Request,Delhi,2
+7,Productivity Issue,Bhubaneswar,2
+1,Application Issue,Gwalior,2
+7,Productivity Issue,Raipur,2
+7,Productivity Issue,Mysore,2
+7,Productivity Issue,Mohali,2
+7,Productivity Issue,Kochi,2
+26,Security Issue,Tiruchirappalli,2
+27,Guidance Request,Chennai,2
+7,Productivity Issue,Coimbatore,2
+7,Productivity Issue,Jodhpur,2
+1,Application Issue,Delhi,2
+9,Network Issue,Ahmedabad,2
+9,Network Issue,Amritsar,2
+4,Hardware Issue,Amritsar,2
+9,Network Issue,Lucknow,2
+25,Software Issue,Belgaum,2
+25,Software Issue,Bhopal,2
+25,Software Issue,Bhubaneswar,2
+1,Application Issue,Chandigarh,2
+27,Guidance Request,Bhopal,2
+9,Network Issue,Raipur,2
+9,Network Issue,Noida,2
+27,Guidance Request,Warangal,2
+27,Guidance Request,Vadodara,2
+27,Guidance Request,Surat,2
+3,Noise,Mysore,2
+9,Network Issue,Mumbai,2
+25,Software Issue,Hubli,2
+27,Guidance Request,Siliguri,2
+27,Guidance Request,Salem,2
+9,Network Issue,Belgaum,2
+27,Guidance Request,Pune,2
+25,Software Issue,Jodhpur,2
+3,Noise,Tiruchirappalli,2
+9,Network Issue,Jaipur,2
+25,Software Issue,Kolkata,2
+3,Noise,Surat,2
+9,Network Issue,Hyderabad,2
+27,Guidance Request,Nashik,2
+27,Guidance Request,Mysore,2
+25,Software Issue,Mumbai,2
+27,Guidance Request,Mangalore,2
+25,Software Issue,Pune,2
+9,Network Issue,Bhubaneswar,2
+25,Software Issue,Siliguri,2
+8,Data Recovery,Bhubaneswar,2
+18,Network Issue,Mysore,2
+11,Hardware Issue,Raipur,2
+13,Hardware Issue,Udaipur,2
+2,Network Issue,Kochi,2
+2,Network Issue,Kanpur,2
+2,Network Issue,Indore,2
+3,Noise,Ghaziabad,2
+2,Network Issue,Guwahati,2
+3,Noise,Indore,2
+3,Noise,Jodhpur,2
+14,Software Issue,Vijayawada,2
+21,Account Access Issue,Ahmedabad,2
+21,Account Access Issue,Bangalore,2
+14,Software Issue,Thiruvananthapuram,2
+21,Account Access Issue,Chennai,2
+21,Account Access Issue,Delhi,2
+14,Software Issue,Noida,2
+11,Hardware Issue,Siliguri,2
+14,Software Issue,Nashik,2
+14,Software Issue,Nagpur,2
+14,Software Issue,Mysore,2
+21,Account Access Issue,Jaipur,2
+21,Account Access Issue,Mohali,2
+21,Account Access Issue,Raipur,2
+14,Software Issue,Indore,2
+14,Software Issue,Gwalior,2
+14,Software Issue,Gurgaon,2
+21,Account Access Issue,Thiruvananthapuram,2
+14,Software Issue,Delhi,2
+14,Software Issue,Bangalore,2
+22,Account Locked,Aurangabad,2
+22,Account Locked,Bangalore,2
+3,Noise,Coimbatore,2
+3,Noise,Bhopal,2
+16,Application Crash,Aurangabad,2
+17,Hardware Issue,Gwalior,2
+18,Network Issue,Jamshedpur,2
+18,Network Issue,Hyderabad,2
+18,Network Issue,Tiruchirappalli,2
+18,Network Issue,Dehradun,2
+18,Network Issue,Warangal,2
+18,Network Issue,Aurangabad,2
+17,Hardware Issue,Warangal,2
+17,Hardware Issue,Visakhapatnam,2
+19,Configuration Issue,Coimbatore,2
+17,Hardware Issue,Siliguri,2
+3,Noise,Amritsar,2
+19,Configuration Issue,Guwahati,2
+19,Configuration Issue,Hubli,2
+19,Configuration Issue,Kolkata,2
+16,Application Crash,Bangalore,2
+19,Configuration Issue,Mohali,2
+17,Hardware Issue,Faridabad,2
+17,Hardware Issue,Dehradun,2
+19,Configuration Issue,Siliguri,2
+19,Configuration Issue,Vijayawada,2
+16,Application Crash,Vadodara,2
+16,Application Crash,Thiruvananthapuram,2
+16,Application Crash,Pune,2
+16,Application Crash,Madurai,2
+2,Network Issue,Vadodara,2
+16,Application Crash,Hyderabad,2
+16,Application Crash,Hubli,2
+16,Application Crash,Dehradun,2
+13,Hardware Issue,Visakhapatnam,2
+16,Application Crash,Surat,2
+13,Hardware Issue,Kolkata,2
+12,Charging Issue,Bhopal,2
+23,Account Recovery,Chandigarh,2
+12,Charging Issue,Chandigarh,2
+23,Account Recovery,Mohali,2
+12,Charging Issue,Chennai,2
+12,Charging Issue,Coimbatore,2
+22,Account Locked,Kolkata,2
+13,Hardware Issue,Chennai,2
+23,Account Recovery,Aurangabad,2
+12,Charging Issue,Thiruvananthapuram,2
+12,Charging Issue,Delhi,2
+12,Charging Issue,Jamshedpur,2
+22,Account Locked,Mangalore,2
+22,Account Locked,Lucknow,2
+23,Account Recovery,Jamshedpur,2
+12,Charging Issue,Surat,2
+12,Charging Issue,Bhubaneswar,2
+12,Charging Issue,Gwalior,2
+13,Hardware Issue,Amritsar,2
+13,Hardware Issue,Mumbai,2
+12,Charging Issue,Amritsar,2
+22,Account Locked,Ghaziabad,2
+12,Charging Issue,Ahmedabad,2
+23,Account Recovery,Surat,2
+22,Account Locked,Hyderabad,2
+23,Account Recovery,Salem,2
+13,Hardware Issue,Patna,2
+22,Account Locked,Hubli,2
+13,Hardware Issue,Ahmedabad,2
+13,Hardware Issue,Dehradun,2
+13,Hardware Issue,Indore,2
+22,Account Locked,Gwalior,2
+12,Charging Issue,Madurai,1
+10,Hardware Issue,Thiruvananthapuram,1
+1,Application Issue,Visakhapatnam,1
+12,Charging Issue,Nagpur,1
+27,Guidance Request,Vijayawada,1
+27,Guidance Request,Thiruvananthapuram,1
+27,Guidance Request,Tiruchirappalli,1
+27,Guidance Request,Udaipur,1
+27,Guidance Request,Visakhapatnam,1
+22,Account Locked,Chandigarh,1
+27,Guidance Request,Lucknow,1
+2,Network Issue,Vijayawada,1
+2,Network Issue,Tiruchirappalli,1
+16,Application Crash,Kanpur,1
+2,Network Issue,Thiruvananthapuram,1
+16,Application Crash,Faridabad,1
+2,Network Issue,Ranchi,1
+16,Application Crash,Vijayawada,1
+2,Network Issue,Raipur,1
+27,Guidance Request,Kanpur,1
+1,Application Issue,Vijayawada,1
+27,Guidance Request,Jamshedpur,1
+16,Application Crash,Chennai,1
+2,Network Issue,Patna,1
+7,Productivity Issue,Bhopal,1
+27,Guidance Request,Gurgaon,1
+19,Configuration Issue,Vadodara,1
+17,Hardware Issue,Delhi,1
+17,Hardware Issue,Amritsar,1
+17,Hardware Issue,Ranchi,1
+19,Configuration Issue,Jamshedpur,1
+5,Battery Life Issue,Gurgaon,1
+3,Noise,Agra,1
+17,Hardware Issue,Indore,1
+23,Account Recovery,Kolkata,1
+12,Charging Issue,Dehradun,1
+18,Network Issue,Belgaum,1
+5,Battery Life Issue,Kochi,1
+18,Network Issue,Bhubaneswar,1
+18,Network Issue,Chandigarh,1
+4,Hardware Issue,Jamshedpur,1
+4,Hardware Issue,Jaipur,1
+23,Account Recovery,Raipur,1
+18,Network Issue,Thiruvananthapuram,1
+17,Hardware Issue,Hyderabad,1
+5,Battery Life Issue,Mangalore,1
+12,Charging Issue,Kanpur,1
+1,Application Issue,Ahmedabad,1
+19,Configuration Issue,Salem,1
+6,Urgent Support Request,Gwalior,1
+1,Application Issue,Belgaum,1
+17,Hardware Issue,Aurangabad,1
+17,Hardware Issue,Coimbatore,1
+23,Account Recovery,Guwahati,1
+1,Application Issue,Agra,1
+4,Hardware Issue,Chandigarh,1
+19,Configuration Issue,Nagpur,1
+3,Noise,Belgaum,1
+5,Battery Life Issue,Visakhapatnam,1
+19,Configuration Issue,Mangalore,1
+19,Configuration Issue,Lucknow,1
+5,Battery Life Issue,Raipur,1
+16,Application Crash,Ahmedabad,1
+22,Account Locked,Vijayawada,1
+2,Network Issue,Mumbai,1
+21,Account Access Issue,Mumbai,1
+21,Account Access Issue,Kolkata,1
+25,Software Issue,Visakhapatnam,1
+8,Data Recovery,Visakhapatnam,1
+8,Data Recovery,Tiruchirappalli,1
+2,Network Issue,Chennai,1
+8,Data Recovery,Siliguri,1
+8,Data Recovery,Raipur,1
+8,Data Recovery,Patna,1
+8,Data Recovery,Nagpur,1
+8,Data Recovery,Madurai,1
+8,Data Recovery,Lucknow,1
+8,Data Recovery,Kochi,1
+21,Account Access Issue,Indore,1
+21,Account Access Issue,Hubli,1
+8,Data Recovery,Indore,1
+8,Data Recovery,Gwalior,1
+8,Data Recovery,Guwahati,1
+21,Account Access Issue,Lucknow,1
+25,Software Issue,Thiruvananthapuram,1
+23,Account Recovery,Agra,1
+21,Account Access Issue,Mysore,1
+22,Account Locked,Bhopal,1
+9,Network Issue,Pune,1
+13,Hardware Issue,Nashik,1
+14,Software Issue,Ahmedabad,1
+21,Account Access Issue,Visakhapatnam,1
+14,Software Issue,Bhopal,1
+22,Account Locked,Jaipur,1
+9,Network Issue,Ghaziabad,1
+22,Account Locked,Jamshedpur,1
+21,Account Access Issue,Ranchi,1
+25,Software Issue,Nagpur,1
+9,Network Issue,Chennai,1
+25,Software Issue,Noida,1
+21,Account Access Issue,Nashik,1
+21,Account Access Issue,Nagpur,1
+25,Software Issue,Ranchi,1
+25,Software Issue,Salem,1
+10,Hardware Issue,Ahmedabad,1
+8,Data Recovery,Dehradun,1
+1,Application Issue,Lucknow,1
+1,Application Issue,Kolkata,1
+10,Hardware Issue,Faridabad,1
+22,Account Locked,Tiruchirappalli,1
+3,Noise,Gwalior,1
+10,Hardware Issue,Hubli,1
+22,Account Locked,Udaipur,1
+3,Noise,Faridabad,1
+2,Network Issue,Jaipur,1
+7,Productivity Issue,Hubli,1
+27,Guidance Request,Ahmedabad,1
+27,Guidance Request,Amritsar,1
+22,Account Locked,Vadodara,1
+7,Productivity Issue,Guwahati,1
+9,Network Issue,Mysore,1
+2,Network Issue,Kolkata,1
+22,Account Locked,Visakhapatnam,1
+2,Network Issue,Lucknow,1
+2,Network Issue,Madurai,1
+13,Hardware Issue,Aurangabad,1
+2,Network Issue,Ghaziabad,1
+13,Hardware Issue,Bhopal,1
+7,Productivity Issue,Vadodara,1
+21,Account Access Issue,Guwahati,1
+13,Hardware Issue,Jaipur,1
+8,Data Recovery,Bhopal,1
+13,Hardware Issue,Delhi,1
+14,Software Issue,Patna,1
+22,Account Locked,Noida,1
+21,Account Access Issue,Dehradun,1
+7,Productivity Issue,Thiruvananthapuram,1
+2,Network Issue,Delhi,1
+14,Software Issue,Surat,1
+22,Account Locked,Pune,1
+14,Software Issue,Tiruchirappalli,1
+1,Application Issue,Noida,1
+14,Software Issue,Udaipur,1
+2,Network Issue,Coimbatore,1
+7,Productivity Issue,Patna,1
+8,Data Recovery,Belgaum,1

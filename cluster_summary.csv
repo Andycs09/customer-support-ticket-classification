@@ -1,0 +1,30 @@
+cluster,ticket_count,top_word,tf_keywords,avg_probability
+28,2524,product,"product, software, update, changes, occurring, occurring recent, recent, recent software, software update, update changes",0.9996727808396129
+20,448,data,"data, files, deleted, data loss, loss, documents, encountered, encountered data, files documents, retrieve",0.9290527662450402
+24,377,intermittent,"intermittent, intermittent unexpectedly, unexpectedly, product, product intermittent, product product, purchase, description, issues, able",0.8999729265357188
+6,364,affecting,"affecting, affecting productivity, assistance, assistance affecting, productivity, product, item, product assistance, respond, turning",0.905936496976999
+26,353,concerned,"concerned, concerned security, data, data safe, ensure, ensure data, safe, security, security ensure, product",0.9610458399836308
+15,336,message,"message, error, does, does mean, error message, mean, message popping, noticed, noticed peculiar, peculiar",0.9798637849751564
+0,334,update,"update, updated, afterward, afterward update, firmware, firmware happening, happening, happening afterward, updated firmware, product",0.9035837766036079
+5,228,used,"used, battery, battery life, decrease, decrease battery, life, life used, longer, noticed, noticed sudden",0.9181664619369141
+23,202,account,"account, password, recover, account password, recover account, password account, forgotten, forgotten password, password recover, unable",0.6309352936058014
+11,195,screen,"screen, hardware, unable, flickering, screen flickering, hardware screen, flickering unable, software, update, intermittent",0.4335637160973997
+12,184,charger,"charger, charger charging, charging, product, item, products, purchased, order, add, product product",0.9741409466837097
+18,183,set,"set, connect, troubleshoot, available, fails, connect available, fails connect, networks, available networks, networks troubleshoot",0.6867454698200764
+4,183,adapters,"adapters, adapters peripherals, cables, cables adapters, peripherals, peripherals persists, persists, product, item, order",0.9258104945785525
+16,182,app,"app, data, software, noticed, data loss, loss, bug, causing, noticed software, software bug",0.6230092168723578
+10,180,model,"model, devices, devices model, experiencing, experiencing devices, model widespread, widespread, product, item, product experiencing",0.9271752730327112
+17,180,hardware,"hardware, hardware repair, repair, repair replacement, replacement, product, item, product hardware, price, purchased",0.9548005971734762
+19,177,settings,"settings, configurations, configurations persists, persists, settings configurations, product, item, order, information, product settings",0.9653954077231309
+1,172,specific,"specific, application, consistently, consistently specific, feature, feature application, noticed, noticed occurs, occurs, occurs consistently",0.9957000758243066
+9,171,network,"network, unable, connection, internet, troubleshoot, troubleshoot network, internet connection, stable, stable internet, establish",0.6793744901728086
+7,170,daily,"daily, daily tasks, heavily, heavily daily, hindering, hindering productivity, productivity, rely, rely heavily, tasks",0.90977455604365
+3,167,(no terms),(no terms),0.559013549110211
+14,164,software,"software, solution, glitch, glitch software, difficult, difficult solution, freezes, freezes frequently, frequently, frequently making",0.5098372898823446
+13,163,making,"making, making strange, strange, hardware, noises, strange noises, functioning, noises functioning, functioning suspect, suspect",0.5150634219982954
+25,149,software,"software, updates, specific, application, available, bug, fixes, software bug, fixes available, updates fixes",0.6405108342019904
+22,147,account,"account, locked, account locked, unlock, issues, logging, issues logging, logging account, account says, says",0.6495745787306028
+21,143,access,"access, account, access account, unable, login, information, login information, regain, account keeps, correct",0.8092163930971864
+2,134,connecting,"connecting, devices, network, wi, connecting home, fi, home, trouble, wi fi, detect",0.8253369469803166
+27,103,unable,"unable, trying, understand, let, person, right, said, available, available unable, doing",0.5679777053454134
+8,31,data,"data, error, does, does mean, error message, mean, message, message popping, noticed, noticed peculiar",1.0

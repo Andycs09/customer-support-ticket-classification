@@ -1,0 +1,497 @@
+==========================================================================================
+HDBSCAN VALIDATION REPORT
+==========================================================================================
+
+Total Tickets                  : 8469
+Clusters Found                  : 60
+Noise Tickets                   : 431
+Noise Percentage                : 5.09%
+Silhouette Score                 : 0.8591
+Min. Membership Probability      : 0.60
+Accepted Tickets                 : 6093
+Review Required                  : 2376
+
+==========================================================================================
+CLUSTER QUALITY SUMMARY (Manual Semantic Inspection)
+==========================================================================================
+
+Cluster 51
+  Final Label        : Software Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 946
+  Avg Confidence     : 0.977
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 6
+  Final Label        : Battery Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 361
+  Avg Confidence     : 0.962
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 13
+  Final Label        : Error Message
+  Auto Keyword       : productpurchased
+  Tickets            : 346
+  Avg Confidence     : 0.831
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 10
+  Final Label        : Login Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 336
+  Avg Confidence     : 0.806
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 34
+  Final Label        : Data Recovery
+  Auto Keyword       : productpurchased
+  Tickets            : 322
+  Avg Confidence     : 0.852
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 12
+  Final Label        : Firmware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 322
+  Avg Confidence     : 0.877
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 27
+  Final Label        : Network Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 321
+  Avg Confidence     : 0.832
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 1
+  Final Label        : Charging Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 316
+  Avg Confidence     : 0.865
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 7
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 312
+  Avg Confidence     : 0.889
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 0
+  Final Label        : Security Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 216
+  Avg Confidence     : 0.488
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 23
+  Final Label        : Software Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 177
+  Avg Confidence     : 0.916
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 14
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 176
+  Avg Confidence     : 0.895
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 39
+  Final Label        : Data Recovery
+  Auto Keyword       : productpurchased
+  Tickets            : 173
+  Avg Confidence     : 0.444
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 2
+  Final Label        : Application Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 173
+  Avg Confidence     : 0.876
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 26
+  Final Label        : Data Recovery
+  Auto Keyword       : delete
+  Tickets            : 168
+  Avg Confidence     : 0.520
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 22
+  Final Label        : Network Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 166
+  Avg Confidence     : 0.911
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 42
+  Final Label        : Configuration Issue
+  Auto Keyword       : update
+  Tickets            : 164
+  Avg Confidence     : 0.490
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 36
+  Final Label        : Data Recovery
+  Auto Keyword       : productpurchased
+  Tickets            : 159
+  Avg Confidence     : 0.877
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 29
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 159
+  Avg Confidence     : 0.607
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 30
+  Final Label        : Data Recovery
+  Auto Keyword       : productpurchased
+  Tickets            : 158
+  Avg Confidence     : 0.579
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 9
+  Final Label        : Login Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 158
+  Avg Confidence     : 0.872
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 8
+  Final Label        : Login Issue
+  Auto Keyword       : file
+  Tickets            : 157
+  Avg Confidence     : 0.450
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 41
+  Final Label        : Guidance Request
+  Auto Keyword       : productpurchased
+  Tickets            : 156
+  Avg Confidence     : 0.615
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 37
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 156
+  Avg Confidence     : 0.637
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 46
+  Final Label        : Data Recovery
+  Auto Keyword       : productpurchased
+  Tickets            : 154
+  Avg Confidence     : 0.929
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 24
+  Final Label        : Application Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 152
+  Avg Confidence     : 0.923
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 25
+  Final Label        : Security Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 140
+  Avg Confidence     : 0.438
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 19
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 124
+  Avg Confidence     : 0.477
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 31
+  Final Label        : Billing Issue
+  Auto Keyword       : connect
+  Tickets            : 120
+  Avg Confidence     : 0.391
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 44
+  Final Label        : Software Issue
+  Auto Keyword       : screen
+  Tickets            : 94
+  Avg Confidence     : 0.625
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 33
+  Final Label        : Troubleshooting
+  Auto Keyword       : password
+  Tickets            : 84
+  Avg Confidence     : 0.591
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 47
+  Final Label        : Data Recovery
+  Auto Keyword       : troubleshoot
+  Tickets            : 74
+  Avg Confidence     : 0.806
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 50
+  Final Label        : Software Issue
+  Auto Keyword       : datum
+  Tickets            : 73
+  Avg Confidence     : 0.689
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 45
+  Final Label        : Software Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 59
+  Avg Confidence     : 0.525
+  Quality            : Poor
+  Semantic Inspection: REVIEW
+------------------------------------------------------------
+Cluster 15
+  Final Label        : Network Issue
+  Auto Keyword       : hardware
+  Tickets            : 55
+  Avg Confidence     : 0.702
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 56
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 53
+  Avg Confidence     : 0.688
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 48
+  Final Label        : Software Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 51
+  Avg Confidence     : 0.797
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 59
+  Final Label        : productpurchased
+  Auto Keyword       : productpurchased
+  Tickets            : 49
+  Avg Confidence     : 0.619
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 54
+  Final Label        : Network Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 47
+  Avg Confidence     : 0.694
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 55
+  Final Label        : Network Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 45
+  Avg Confidence     : 0.770
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 21
+  Final Label        : Network Issue
+  Auto Keyword       : access
+  Tickets            : 44
+  Avg Confidence     : 0.777
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 57
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 43
+  Avg Confidence     : 0.694
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 52
+  Final Label        : Troubleshooting
+  Auto Keyword       : productpurchased
+  Tickets            : 41
+  Avg Confidence     : 0.714
+  Quality            : Good
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 53
+  Final Label        : Troubleshooting
+  Auto Keyword       : productpurchased
+  Tickets            : 37
+  Avg Confidence     : 0.843
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 49
+  Final Label        : Hardware Issue
+  Auto Keyword       : datum
+  Tickets            : 34
+  Avg Confidence     : 0.830
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 58
+  Final Label        : productpurchased
+  Auto Keyword       : productpurchased
+  Tickets            : 31
+  Avg Confidence     : 0.864
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 20
+  Final Label        : Security Issue
+  Auto Keyword       : access
+  Tickets            : 31
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 11
+  Final Label        : Software Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 29
+  Avg Confidence     : 0.824
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 32
+  Final Label        : Data Recovery
+  Auto Keyword       : password
+  Tickets            : 27
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 43
+  Final Label        : Software Issue
+  Auto Keyword       : use
+  Tickets            : 26
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 4
+  Final Label        : Software Issue
+  Auto Keyword       : productpurchase
+  Tickets            : 25
+  Avg Confidence     : 0.958
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 3
+  Final Label        : Configuration Issue
+  Auto Keyword       : update
+  Tickets            : 24
+  Avg Confidence     : 0.970
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 28
+  Final Label        : Security Issue
+  Auto Keyword       : screen
+  Tickets            : 24
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 16
+  Final Label        : Hardware Issue
+  Auto Keyword       : strange
+  Tickets            : 24
+  Avg Confidence     : 0.998
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 17
+  Final Label        : Network Issue
+  Auto Keyword       : access
+  Tickets            : 23
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 5
+  Final Label        : Factory Reset
+  Auto Keyword       : act
+  Tickets            : 22
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 40
+  Final Label        : Data Recovery
+  Auto Keyword       : productpurchased
+  Tickets            : 21
+  Avg Confidence     : 0.996
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 38
+  Final Label        : Hardware Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 20
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 35
+  Final Label        : Security Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 20
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------
+Cluster 18
+  Final Label        : Network Issue
+  Auto Keyword       : productpurchased
+  Tickets            : 20
+  Avg Confidence     : 1.000
+  Quality            : Excellent
+  Semantic Inspection: PASS
+------------------------------------------------------------

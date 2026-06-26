@@ -1,0 +1,30 @@
+cluster,final_label,auto_keyword,tickets,avg_probability,quality,inspection
+28,Software Issue,product,2524,1.0,Excellent,PASS
+20,Data Recovery,data,448,0.929,Excellent,PASS
+24,Intermittent Issue,intermittent,377,0.9,Excellent,PASS
+6,Urgent Support Request,affecting,364,0.906,Excellent,PASS
+26,Security Issue,concerned,353,0.961,Excellent,PASS
+15,Error Message,message,336,0.98,Excellent,PASS
+0,Firmware Update Error,update,334,0.904,Excellent,PASS
+5,Battery Life Issue,used,228,0.918,Excellent,PASS
+23,Account Recovery,account,202,0.631,Fair,PASS
+11,Hardware Issue,screen,195,0.434,Poor,REVIEW
+12,Charging Issue,charger,184,0.974,Excellent,PASS
+18,Network Issue,set,183,0.687,Fair,PASS
+4,Hardware Issue,adapters,183,0.926,Excellent,PASS
+16,Application Crash,app,182,0.623,Fair,PASS
+10,Hardware Issue,model,180,0.927,Excellent,PASS
+17,Hardware Issue,hardware,180,0.955,Excellent,PASS
+19,Configuration Issue,settings,177,0.965,Excellent,PASS
+1,Application Issue,specific,172,0.996,Excellent,PASS
+9,Network Issue,network,171,0.679,Fair,PASS
+7,Productivity Issue,daily,170,0.91,Excellent,PASS
+3,Noise,(no terms),167,0.559,Poor,REVIEW
+14,Software Issue,software,164,0.51,Poor,REVIEW
+13,Hardware Issue,making,163,0.515,Poor,REVIEW
+25,Software Issue,software,149,0.641,Fair,PASS
+22,Account Locked,account,147,0.65,Fair,PASS
+21,Account Access Issue,access,143,0.809,Good,PASS
+2,Network Issue,connecting,134,0.825,Good,PASS
+27,Guidance Request,unable,103,0.568,Poor,REVIEW
+8,Data Recovery,data,31,1.0,Excellent,PASS

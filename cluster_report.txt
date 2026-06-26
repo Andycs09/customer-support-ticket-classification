@@ -1,0 +1,2403 @@
+==========================================================================================
+TICKET CLUSTER ANALYSIS REPORT
+==========================================================================================
+Total Clusters   : 29
+Noise Tickets    : 125
+Silhouette Score : 0.7352
+
+==========================================================================================
+CLUSTER  28  |  Tickets:  2524  |  Label: SOFTWARE ISSUE  |  Avg Prob: 1.000
+==========================================================================================
+KEYWORDS:
+   1. product                                   97
+   2. software                                  52
+   3. update                                    45
+   4. changes                                   41
+   5. occurring                                 41
+   6. occurring recent                          41
+   7. recent                                    41
+   8. recent software                           41
+   9. software update                           41
+  10. update changes                            41
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] you might be able to make adjustments to the requested item further where requested or received from a person i m only accepting orders until their this problem started occurring after the recent software update i haven t made any other changes to the device
+······································································
+[2] c you must notify the person purchasing the product d i can help you with any other important or necessary expenses or support needs i ve followed online tutorials and community forums to troubleshoot the issue but no luck so far
+······································································
+[3] i know that no one wants to buy this product there are other products on this website that are perfect the only one i m sure is it fits in their this problem started occurring after the recent software update i haven t made any other changes to the device
+······································································
+[4] i do not have the ingredients for the item please add it back thanks for the feedback and happy shopping see you on the shelves for another this problem started occurring after the recent software update i haven t made any other changes to the device
+······································································
+[5] if the product description is i wanted to buy the same thing at work a screenshot is sent out via email for all of available i ve checked for software updates and my is already running the latest version
+······································································
+
+==========================================================================================
+CLUSTER  20  |  Tickets:   448  |  Label: DATA RECOVERY  |  Avg Prob: 0.929
+==========================================================================================
+KEYWORDS:
+   1. data                                      131
+   2. files                                     102
+   3. deleted                                   80
+   4. data loss                                 62
+   5. loss                                      62
+   6. documents                                 60
+   7. encountered                               60
+   8. encountered data                          60
+   9. files documents                           60
+  10. retrieve                                  60
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i ve accidentally deleted important data from my is there any way to recover the deleted files i need them urgently if you re sure please tell me so i can fix my problems update
+······································································
+[2] i ve accidentally deleted important data from my is there any way to recover the deleted files i need them urgently i m not sure if this issue is specific to my device or if others have reported similar problems
+······································································
+[3] i ve accidentally deleted important data from my is there any way to recover the deleted files i need them urgently is there some way to find out what the files are if you are a member of i m not sure if this issue is specific to my device or if others have reported similar problems
+······································································
+[4] i ve encountered a data loss issue with my all the files and documents seem to have disappeared can you guide me on how to retrieve them i know it s not possible to retrieve my items from the
+······································································
+[5] i ve accidentally deleted important data from my is there any way to recover the deleted files i need them urgently but my is all empty there were no new users just
+······································································
+
+==========================================================================================
+CLUSTER  24  |  Tickets:   377  |  Label: INTERMITTENT ISSUE  |  Avg Prob: 0.900
+==========================================================================================
+KEYWORDS:
+   1. intermittent                              100
+   2. intermittent unexpectedly                 100
+   3. unexpectedly                              100
+   4. product                                   53
+   5. product intermittent                      8
+   6. product product                           6
+   7. purchase                                  6
+   8. description                               5
+   9. issues                                    5
+  10. able                                      4
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] product the issue i m facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+······································································
+[2] t t i really need to see this on the next order the issue i m facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+······································································
+[3] thanks the issue i m facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+······································································
+[4] the issue i m facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+······································································
+[5] please contact and the issue i m facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+······································································
+
+==========================================================================================
+CLUSTER   6  |  Tickets:   364  |  Label: URGENT SUPPORT REQUEST  |  Avg Prob: 0.906
+==========================================================================================
+KEYWORDS:
+   1. affecting                                 100
+   2. affecting productivity                    100
+   3. assistance                                100
+   4. assistance affecting                      100
+   5. productivity                              100
+   6. product                                   30
+   7. item                                      12
+   8. product assistance                        6
+   9. respond                                   6
+  10. turning                                   6
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] h id id purchasedat i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[2] i m having an issue with the for the for the that the user bought i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[3] i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[4] please help me through it i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[5] thanks i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+
+==========================================================================================
+CLUSTER  26  |  Tickets:   353  |  Label: SECURITY ISSUE  |  Avg Prob: 0.961
+==========================================================================================
+KEYWORDS:
+   1. concerned                                 100
+   2. concerned security                        100
+   3. data                                      100
+   4. data safe                                 100
+   5. ensure                                    100
+   6. ensure data                               100
+   7. safe                                      100
+   8. security                                  100
+   9. security ensure                           100
+  10. product                                   43
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] the new item name should be the product i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[2] thank you thank you i m having an issue with i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[3] i m having an issue with the i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[4] product p p yr cm x cm i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[5] i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+
+==========================================================================================
+CLUSTER  15  |  Tickets:   336  |  Label: ERROR MESSAGE  |  Avg Prob: 0.980
+==========================================================================================
+KEYWORDS:
+   1. message                                   103
+   2. error                                     102
+   3. does                                      100
+   4. does mean                                 100
+   5. error message                             100
+   6. mean                                      100
+   7. message popping                           100
+   8. noticed                                   100
+   9. noticed peculiar                          100
+  10. peculiar                                  100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i am trying to fix my system could you please help me i ve got an issue with this product i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[2] i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[3] i i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[4] thanks i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[5] thank you i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+
+==========================================================================================
+CLUSTER   0  |  Tickets:   334  |  Label: FIRMWARE UPDATE ERROR  |  Avg Prob: 0.904
+==========================================================================================
+KEYWORDS:
+   1. update                                    102
+   2. updated                                   102
+   3. afterward                                 100
+   4. afterward update                          100
+   5. firmware                                  100
+   6. firmware happening                        100
+   7. happening                                 100
+   8. happening afterward                       100
+   9. updated firmware                          100
+  10. product                                   46
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] you may have to go to i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[2] i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[3] what i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[4] thanks i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[5] i have no way to find this one i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+
+==========================================================================================
+CLUSTER   5  |  Tickets:   228  |  Label: BATTERY LIFE ISSUE  |  Avg Prob: 0.918
+==========================================================================================
+KEYWORDS:
+   1. used                                      101
+   2. battery                                   100
+   3. battery life                              100
+   4. decrease                                  100
+   5. decrease battery                          100
+   6. life                                      100
+   7. life used                                 100
+   8. longer                                    100
+   9. noticed                                   100
+  10. noticed sudden                            100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[2] thank you for your help i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[3] thanks thanks fix the i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[4] thank you i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[5] all i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+
+==========================================================================================
+CLUSTER  23  |  Tickets:   202  |  Label: ACCOUNT RECOVERY  |  Avg Prob: 0.631
+==========================================================================================
+KEYWORDS:
+   1. account                                   244
+   2. password                                  239
+   3. recover                                   118
+   4. account password                          113
+   5. recover account                           111
+   6. password account                          106
+   7. forgotten                                 102
+   8. forgotten password                        102
+   9. password recover                          101
+  10. unable                                    14
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i ve forgotten my password for my account and the password reset option is not working how can i recover my account you can take the steps below to recover your original account and login back i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[2] i ve forgotten my password for my account and the password reset option is not working how can i recover my account the only way to recover or reset the password is via another service i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[3] i ve forgotten my password for my account and the password reset option is not working how can i recover my account thanks
+······································································
+[4] i ve forgotten my password for my account and the password reset option is not working how can i recover my account
+······································································
+[5] i ve forgotten my password for my account and the password reset option is not working how can i recover my account to recover my password simply enter the following password re i m not sure if this issue is specific to my device or if others have reported similar problems
+······································································
+
+==========================================================================================
+CLUSTER  11  |  Tickets:   195  |  Label: HARDWARE ISSUE  |  Avg Prob: 0.434
+==========================================================================================
+KEYWORDS:
+   1. screen                                    126
+   2. hardware                                  116
+   3. unable                                    106
+   4. flickering                                105
+   5. screen flickering                         105
+   6. hardware screen                           101
+   7. flickering unable                         100
+   8. software                                  13
+   9. update                                    13
+  10. intermittent                              11
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] there seems to be a hardware problem with my the screen is flickering and i m unable to use it what should i do i ll try my best to fix it now i could get a
+······································································
+[2] there seems to be a hardware problem with my the screen is flickering and i m unable to use it what should i do what should i do
+······································································
+[3] there seems to be a hardware problem with my the screen is flickering and i m unable to use it what should i do
+······································································
+[4] there seems to be a hardware problem with my the screen is flickering and i m unable to use it what should i do there seems to be a hardware problem with my i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[5] there seems to be a hardware problem with my the screen is flickering and i m unable to use it what should i do i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+
+==========================================================================================
+CLUSTER  12  |  Tickets:   184  |  Label: CHARGING ISSUE  |  Avg Prob: 0.974
+==========================================================================================
+KEYWORDS:
+   1. charger                                   100
+   2. charger charging                          100
+   3. charging                                  100
+   4. product                                   61
+   5. item                                      14
+   6. products                                  13
+   7. purchased                                 12
+   8. order                                     11
+   9. add                                       7
+  10. product product                           7
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m having an issue with the what the product order id is a i m using the original charger that came with my but it s not charging properly
+······································································
+[2] i m using the original charger that came with my but it s not charging properly
+······································································
+[3] to do i m using the original charger that came with my but it s not charging properly
+······································································
+[4] see i m using the original charger that came with my but it s not charging properly
+······································································
+[5] thank you i m using the original charger that came with my but it s not charging properly
+······································································
+
+==========================================================================================
+CLUSTER  18  |  Tickets:   183  |  Label: NETWORK ISSUE  |  Avg Prob: 0.687
+==========================================================================================
+KEYWORDS:
+   1. set                                       117
+   2. connect                                   106
+   3. troubleshoot                              103
+   4. available                                 102
+   5. fails                                     102
+   6. connect available                         101
+   7. fails connect                             101
+   8. networks                                  101
+   9. available networks                        100
+  10. networks troubleshoot                     100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i ve recently set up my but it fails to connect to any available networks what steps should i take to troubleshoot this issue as of this update the problem we re experiencing is based on
+······································································
+
+==========================================================================================
+CLUSTER   4  |  Tickets:   183  |  Label: HARDWARE ISSUE  |  Avg Prob: 0.926
+==========================================================================================
+KEYWORDS:
+   1. adapters                                  100
+   2. adapters peripherals                      100
+   3. cables                                    100
+   4. cables adapters                           100
+   5. peripherals                               100
+   6. peripherals persists                      100
+   7. persists                                  100
+   8. product                                   47
+   9. item                                      14
+  10. order                                     9
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] product id i ve tried using different cables adapters or peripherals with my but the issue persists
+······································································
+[2] i ve tried using different cables adapters or peripherals with my but the issue persists
+······································································
+[3] thanks i ve tried using different cables adapters or peripherals with my but the issue persists
+······································································
+[4] thank you i ve tried using different cables adapters or peripherals with my but the issue persists
+······································································
+[5] fixed an issue i ve tried using different cables adapters or peripherals with my but the issue persists
+······································································
+
+==========================================================================================
+CLUSTER  16  |  Tickets:   182  |  Label: APPLICATION CRASH  |  Avg Prob: 0.623
+==========================================================================================
+KEYWORDS:
+   1. app                                       137
+   2. data                                      117
+   3. software                                  113
+   4. noticed                                   107
+   5. data loss                                 103
+   6. loss                                      103
+   7. bug                                       102
+   8. causing                                   101
+   9. noticed software                          101
+  10. software bug                              101
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i ve noticed a software bug in the app it s causing data loss and unexpected errors how can i resolve this issue
+······································································
+[2] i ve noticed a software bug in the app it s causing data loss and unexpected errors how can i resolve this issue how can i get help we re here to help
+······································································
+[3] i ve noticed a software bug in the app it s causing data loss and unexpected errors how can i resolve this issue use
+······································································
+[4] i ve noticed a software bug in the app it s causing data loss and unexpected errors how can i resolve this issue if your app is not included in the i m not sure if this issue is specific to my device or if others have reported similar problems
+······································································
+[5] i ve noticed a software bug in the app it s causing data loss and unexpected errors how can i resolve this issue we ll do everything we can to help fix that error why
+······································································
+
+==========================================================================================
+CLUSTER  10  |  Tickets:   180  |  Label: HARDWARE ISSUE  |  Avg Prob: 0.927
+==========================================================================================
+KEYWORDS:
+   1. model                                     101
+   2. devices                                   100
+   3. devices model                             100
+   4. experiencing                              100
+   5. experiencing devices                      100
+   6. model widespread                          100
+   7. widespread                                100
+   8. product                                   47
+   9. item                                      20
+  10. product experiencing                      7
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] purchase a product on i m experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+······································································
+[2] go here here you will find my item id go here and find my item i m experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+······································································
+[3] thanks i m having an issue with the izqz i m having an issue i m experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+······································································
+[4] this link is being used in place of the last option productcode e e c d i m experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+······································································
+[5] i m experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+······································································
+
+==========================================================================================
+CLUSTER  17  |  Tickets:   180  |  Label: HARDWARE ISSUE  |  Avg Prob: 0.955
+==========================================================================================
+KEYWORDS:
+   1. hardware                                  100
+   2. hardware repair                           100
+   3. repair                                    100
+   4. repair replacement                        100
+   5. replacement                               100
+   6. product                                   56
+   7. item                                      16
+   8. product hardware                          10
+   9. price                                     8
+  10. purchased                                 7
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m worried that the issue might be hardware related and might require repair or replacement
+······································································
+[2] thank you i m worried that the issue might be hardware related and might require repair or replacement
+······································································
+[3] product i m worried that the issue might be hardware related and might require repair or replacement
+······································································
+[4] i m having an issue with my product i m having an issue with my product i m worried that the issue might be hardware related and might require repair or replacement
+······································································
+[5] for those who don t want to sell see this i m worried that the issue might be hardware related and might require repair or replacement
+······································································
+
+==========================================================================================
+CLUSTER  19  |  Tickets:   177  |  Label: CONFIGURATION ISSUE  |  Avg Prob: 0.965
+==========================================================================================
+KEYWORDS:
+   1. settings                                  101
+   2. configurations                            100
+   3. configurations persists                   100
+   4. persists                                  100
+   5. settings configurations                   100
+   6. product                                   40
+   7. item                                      14
+   8. order                                     10
+   9. information                               7
+  10. product settings                          7
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] product name i ve tried different settings and configurations on my but the issue persists
+······································································
+[2] i ve tried different settings and configurations on my but the issue persists
+······································································
+[3] thanks i ve tried different settings and configurations on my but the issue persists
+······································································
+[4] it would help if something can be found i ve tried different settings and configurations on my but the issue persists
+······································································
+[5] thank you i ve tried different settings and configurations on my but the issue persists
+······································································
+
+==========================================================================================
+CLUSTER   1  |  Tickets:   172  |  Label: APPLICATION ISSUE  |  Avg Prob: 0.996
+==========================================================================================
+KEYWORDS:
+   1. specific                                  101
+   2. application                               100
+   3. consistently                              100
+   4. consistently specific                     100
+   5. feature                                   100
+   6. feature application                       100
+   7. noticed                                   100
+   8. noticed occurs                            100
+   9. occurs                                    100
+  10. occurs consistently                       100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i ve noticed that the issue occurs consistently when i use a specific feature or application on my
+······································································
+[2] thank you in everything i ve noticed that the issue occurs consistently when i use a specific feature or application on my
+······································································
+[3] is the what do i i ve noticed that the issue occurs consistently when i use a specific feature or application on my
+······································································
+[4] thank you i ve noticed that the issue occurs consistently when i use a specific feature or application on my
+······································································
+[5] thanks i ve noticed that the issue occurs consistently when i use a specific feature or application on my
+······································································
+
+==========================================================================================
+CLUSTER   9  |  Tickets:   171  |  Label: NETWORK ISSUE  |  Avg Prob: 0.679
+==========================================================================================
+KEYWORDS:
+   1. network                                   130
+   2. unable                                    114
+   3. connection                                113
+   4. internet                                  112
+   5. troubleshoot                              111
+   6. troubleshoot network                      105
+   7. internet connection                       104
+   8. stable                                    103
+   9. stable internet                           102
+  10. establish                                 101
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem how do i troubleshoot the network problem what are
+······································································
+
+==========================================================================================
+CLUSTER   7  |  Tickets:   170  |  Label: PRODUCTIVITY ISSUE  |  Avg Prob: 0.910
+==========================================================================================
+KEYWORDS:
+   1. daily                                     100
+   2. daily tasks                               100
+   3. heavily                                   100
+   4. heavily daily                             100
+   5. hindering                                 100
+   6. hindering productivity                    100
+   7. productivity                              100
+   8. rely                                      100
+   9. rely heavily                              100
+  10. tasks                                     100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] product i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[2] contact us if you can help us thank you i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[3] i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[4] thanks i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[5] thanks thanks thanks thanks hi i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+
+==========================================================================================
+CLUSTER   3  |  Tickets:   167  |  Label: NOISE  |  Avg Prob: 0.559
+==========================================================================================
+KEYWORDS:
+   1. (no terms)                                0
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] thanks
+······································································
+[2] 
+······································································
+[3] to help contact me
+······································································
+[4] thank you
+······································································
+[5] we will find out more about this issue
+······································································
+
+==========================================================================================
+CLUSTER  14  |  Tickets:   164  |  Label: SOFTWARE ISSUE  |  Avg Prob: 0.510
+==========================================================================================
+KEYWORDS:
+   1. software                                  120
+   2. solution                                  112
+   3. glitch                                    105
+   4. glitch software                           101
+   5. difficult                                 100
+   6. difficult solution                        100
+   7. freezes                                   100
+   8. freezes frequently                        100
+   9. frequently                                100
+  10. frequently making                         100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] there seems to be a glitch in the software it freezes frequently making it difficult to use can you please provide a solution
+······································································
+
+==========================================================================================
+CLUSTER  13  |  Tickets:   163  |  Label: HARDWARE ISSUE  |  Avg Prob: 0.515
+==========================================================================================
+KEYWORDS:
+   1. making                                    106
+   2. making strange                            106
+   3. strange                                   106
+   4. hardware                                  105
+   5. noises                                    105
+   6. strange noises                            104
+   7. functioning                               102
+   8. noises functioning                        102
+   9. functioning suspect                       100
+  10. suspect                                   100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] my is making strange noises and not functioning properly i suspect there might be a hardware issue can you please help me with this my is making strange noises and not functioning properly
+······································································
+
+==========================================================================================
+CLUSTER  25  |  Tickets:   149  |  Label: SOFTWARE ISSUE  |  Avg Prob: 0.641
+==========================================================================================
+KEYWORDS:
+   1. software                                  135
+   2. updates                                   127
+   3. specific                                  113
+   4. application                               111
+   5. available                                 110
+   6. bug                                       108
+   7. fixes                                     105
+   8. software bug                              104
+   9. fixes available                           103
+  10. updates fixes                             103
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m encountering a software bug in the whenever i try to perform a specific action the application crashes are there any updates or fixes available there have been various updates such as a new version option
+······································································
+
+==========================================================================================
+CLUSTER  22  |  Tickets:   147  |  Label: ACCOUNT LOCKED  |  Avg Prob: 0.650
+==========================================================================================
+KEYWORDS:
+   1. account                                   263
+   2. locked                                    120
+   3. account locked                            108
+   4. unlock                                    107
+   5. issues                                    106
+   6. logging                                   106
+   7. issues logging                            105
+   8. logging account                           104
+   9. account says                              101
+  10. says                                      101
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m facing issues logging into my account it says my account is locked what should i do to unlock it it should say this your device id but
+······································································
+[2] i m facing issues logging into my account it says my account is locked what should i do to unlock it
+······································································
+[3] i m facing issues logging into my account it says my account is locked what should i do to unlock it is it possible to log in to my account so it can
+······································································
+[4] i m facing issues logging into my account it says my account is locked what should i do to unlock it i m facing issues logging into my account it
+······································································
+[5] i m facing issues logging into my account it says my account is locked what should i do to unlock it i d like to try to do something like this without locking myself i m logged
+······································································
+
+==========================================================================================
+CLUSTER  21  |  Tickets:   143  |  Label: ACCOUNT ACCESS ISSUE  |  Avg Prob: 0.809
+==========================================================================================
+KEYWORDS:
+   1. access                                    201
+   2. account                                   201
+   3. access account                            200
+   4. unable                                    115
+   5. login                                     103
+   6. information                               101
+   7. login information                         101
+   8. regain                                    101
+   9. account keeps                             100
+  10. correct                                   100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account how do i access
+······································································
+
+==========================================================================================
+CLUSTER   2  |  Tickets:   134  |  Label: NETWORK ISSUE  |  Avg Prob: 0.825
+==========================================================================================
+KEYWORDS:
+   1. connecting                                200
+   2. devices                                   103
+   3. network                                   102
+   4. wi                                        102
+   5. connecting home                           101
+   6. fi                                        101
+   7. home                                      101
+   8. trouble                                   101
+   9. wi fi                                     101
+  10. detect                                    100
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i am using the
+······································································
+
+==========================================================================================
+CLUSTER  27  |  Tickets:   103  |  Label: GUIDANCE REQUEST  |  Avg Prob: 0.568
+==========================================================================================
+KEYWORDS:
+   1. unable                                    96
+   2. trying                                    5
+   3. understand                                5
+   4. let                                       4
+   5. person                                    4
+   6. right                                     4
+   7. said                                      4
+   8. available                                 3
+   9. available unable                          3
+  10. doing                                     3
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[2] thank you i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[3] thank you for you i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[4] as always thanks i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[5] contact customer support i m having an issue with the contact customer support i m having an issue with some i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+
+==========================================================================================
+CLUSTER   8  |  Tickets:    31  |  Label: DATA RECOVERY  |  Avg Prob: 1.000
+==========================================================================================
+KEYWORDS:
+   1. data                                      50
+   2. error                                     32
+   3. does                                      31
+   4. does mean                                 31
+   5. error message                             31
+   6. mean                                      31
+   7. message                                   31
+   8. message popping                           31
+   9. noticed                                   31
+  10. noticed peculiar                          31
+
+REPRESENTATIVE TICKETS:
+------------------------------------------------------------------------------------------
+[1] my crashed and i lost all the data stored on it is there any way to recover the lost data thanks sorry for the inconvenience thank you thanks for supporting t i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[2] my crashed and i lost all the data stored on it is there any way to recover the lost data it still doesn t explain why i got the error my i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[3] i ve accidentally deleted important data from my is there any way to recover the deleted files i need them urgently click to expand i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[4] my crashed and i lost all the data stored on it is there any way to recover the lost data cannot be retrieved this will result in our customer i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[5] i ve accidentally deleted important data from my is there any way to recover the deleted files i need them urgently i ve deleted the data from the my item can i i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+
+==========================================================================================
+HOTSPOTS
+==========================================================================================
+  Cluster  28  |  Software Issue                       |  Tickets: 66
+  Cluster  28  |  Software Issue                       |  Tickets: 65
+  Cluster  28  |  Software Issue                       |  Tickets: 62
+  Cluster  28  |  Software Issue                       |  Tickets: 61
+  Cluster  28  |  Software Issue                       |  Tickets: 60
+  Cluster  28  |  Software Issue                       |  Tickets: 59
+  Cluster  28  |  Software Issue                       |  Tickets: 59
+  Cluster  28  |  Software Issue                       |  Tickets: 58
+  Cluster  28  |  Software Issue                       |  Tickets: 58
+  Cluster  28  |  Software Issue                       |  Tickets: 57
+  Cluster  28  |  Software Issue                       |  Tickets: 57
+  Cluster  28  |  Software Issue                       |  Tickets: 56
+  Cluster  28  |  Software Issue                       |  Tickets: 56
+  Cluster  28  |  Software Issue                       |  Tickets: 55
+  Cluster  28  |  Software Issue                       |  Tickets: 55
+  Cluster  28  |  Software Issue                       |  Tickets: 55
+  Cluster  28  |  Software Issue                       |  Tickets: 53
+  Cluster  28  |  Software Issue                       |  Tickets: 52
+  Cluster  28  |  Software Issue                       |  Tickets: 52
+  Cluster  28  |  Software Issue                       |  Tickets: 52
+  Cluster  28  |  Software Issue                       |  Tickets: 51
+  Cluster  28  |  Software Issue                       |  Tickets: 51
+  Cluster  28  |  Software Issue                       |  Tickets: 51
+  Cluster  28  |  Software Issue                       |  Tickets: 51
+  Cluster  28  |  Software Issue                       |  Tickets: 51
+  Cluster  28  |  Software Issue                       |  Tickets: 50
+  Cluster  28  |  Software Issue                       |  Tickets: 50
+  Cluster  28  |  Software Issue                       |  Tickets: 50
+  Cluster  28  |  Software Issue                       |  Tickets: 49
+  Cluster  28  |  Software Issue                       |  Tickets: 49
+  Cluster  28  |  Software Issue                       |  Tickets: 49
+  Cluster  28  |  Software Issue                       |  Tickets: 49
+  Cluster  28  |  Software Issue                       |  Tickets: 48
+  Cluster  28  |  Software Issue                       |  Tickets: 48
+  Cluster  28  |  Software Issue                       |  Tickets: 48
+  Cluster  28  |  Software Issue                       |  Tickets: 48
+  Cluster  28  |  Software Issue                       |  Tickets: 47
+  Cluster  28  |  Software Issue                       |  Tickets: 46
+  Cluster  28  |  Software Issue                       |  Tickets: 45
+  Cluster  28  |  Software Issue                       |  Tickets: 45
+  Cluster  28  |  Software Issue                       |  Tickets: 45
+  Cluster  28  |  Software Issue                       |  Tickets: 45
+  Cluster  28  |  Software Issue                       |  Tickets: 43
+  Cluster  28  |  Software Issue                       |  Tickets: 43
+  Cluster  28  |  Software Issue                       |  Tickets: 42
+  Cluster  28  |  Software Issue                       |  Tickets: 41
+  Cluster  28  |  Software Issue                       |  Tickets: 40
+  Cluster  28  |  Software Issue                       |  Tickets: 35
+  Cluster  28  |  Software Issue                       |  Tickets: 35
+  Cluster  28  |  Software Issue                       |  Tickets: 31
+  Cluster  20  |  Data Recovery                        |  Tickets: 18
+  Cluster  20  |  Data Recovery                        |  Tickets: 14
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 13
+  Cluster  15  |  Error Message                        |  Tickets: 13
+  Cluster  20  |  Data Recovery                        |  Tickets: 13
+  Cluster   6  |  Urgent Support Request               |  Tickets: 13
+  Cluster  20  |  Data Recovery                        |  Tickets: 13
+  Cluster  20  |  Data Recovery                        |  Tickets: 13
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 13
+  Cluster   6  |  Urgent Support Request               |  Tickets: 12
+  Cluster   6  |  Urgent Support Request               |  Tickets: 12
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 12
+  Cluster  20  |  Data Recovery                        |  Tickets: 12
+  Cluster  26  |  Security Issue                       |  Tickets: 12
+  Cluster  26  |  Security Issue                       |  Tickets: 12
+  Cluster   6  |  Urgent Support Request               |  Tickets: 12
+  Cluster  20  |  Data Recovery                        |  Tickets: 12
+  Cluster  20  |  Data Recovery                        |  Tickets: 12
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 12
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 12
+  Cluster   6  |  Urgent Support Request               |  Tickets: 11
+  Cluster  20  |  Data Recovery                        |  Tickets: 11
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 11
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 11
+  Cluster   6  |  Urgent Support Request               |  Tickets: 11
+  Cluster  15  |  Error Message                        |  Tickets: 11
+  Cluster  15  |  Error Message                        |  Tickets: 11
+  Cluster  20  |  Data Recovery                        |  Tickets: 11
+  Cluster  15  |  Error Message                        |  Tickets: 11
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 11
+  Cluster  15  |  Error Message                        |  Tickets: 11
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 11
+  Cluster   0  |  Firmware Update Error                |  Tickets: 11
+  Cluster   0  |  Firmware Update Error                |  Tickets: 11
+  Cluster   6  |  Urgent Support Request               |  Tickets: 11
+  Cluster   0  |  Firmware Update Error                |  Tickets: 11
+  Cluster  20  |  Data Recovery                        |  Tickets: 11
+  Cluster  26  |  Security Issue                       |  Tickets: 11
+  Cluster  26  |  Security Issue                       |  Tickets: 11
+  Cluster  26  |  Security Issue                       |  Tickets: 11
+  Cluster   6  |  Urgent Support Request               |  Tickets: 11
+  Cluster   6  |  Urgent Support Request               |  Tickets: 11
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  15  |  Error Message                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  19  |  Configuration Issue                  |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster   0  |  Firmware Update Error                |  Tickets: 10
+  Cluster  21  |  Account Access Issue                 |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 10
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 10
+  Cluster  26  |  Security Issue                       |  Tickets: 10
+  Cluster   6  |  Urgent Support Request               |  Tickets: 10
+  Cluster  26  |  Security Issue                       |  Tickets: 10
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 10
+  Cluster   6  |  Urgent Support Request               |  Tickets: 10
+  Cluster   6  |  Urgent Support Request               |  Tickets: 10
+  Cluster  26  |  Security Issue                       |  Tickets: 10
+  Cluster   6  |  Urgent Support Request               |  Tickets: 10
+  Cluster  26  |  Security Issue                       |  Tickets: 10
+  Cluster  11  |  Hardware Issue                       |  Tickets: 10
+  Cluster  13  |  Hardware Issue                       |  Tickets: 10
+  Cluster  20  |  Data Recovery                        |  Tickets: 10
+  Cluster  15  |  Error Message                        |  Tickets: 10
+  Cluster  15  |  Error Message                        |  Tickets: 10
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 10
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 9
+  Cluster  15  |  Error Message                        |  Tickets: 9
+  Cluster   6  |  Urgent Support Request               |  Tickets: 9
+  Cluster   0  |  Firmware Update Error                |  Tickets: 9
+  Cluster   6  |  Urgent Support Request               |  Tickets: 9
+  Cluster  19  |  Configuration Issue                  |  Tickets: 9
+  Cluster  15  |  Error Message                        |  Tickets: 9
+  Cluster  15  |  Error Message                        |  Tickets: 9
+  Cluster   6  |  Urgent Support Request               |  Tickets: 9
+  Cluster   0  |  Firmware Update Error                |  Tickets: 9
+  Cluster  15  |  Error Message                        |  Tickets: 9
+  Cluster   0  |  Firmware Update Error                |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 9
+  Cluster   0  |  Firmware Update Error                |  Tickets: 9
+  Cluster  20  |  Data Recovery                        |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 9
+  Cluster   4  |  Hardware Issue                       |  Tickets: 9
+  Cluster   4  |  Hardware Issue                       |  Tickets: 9
+  Cluster   0  |  Firmware Update Error                |  Tickets: 9
+  Cluster  20  |  Data Recovery                        |  Tickets: 9
+  Cluster  20  |  Data Recovery                        |  Tickets: 9
+  Cluster   0  |  Firmware Update Error                |  Tickets: 9
+  Cluster  20  |  Data Recovery                        |  Tickets: 9
+  Cluster  26  |  Security Issue                       |  Tickets: 8
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster  26  |  Security Issue                       |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster  26  |  Security Issue                       |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster  26  |  Security Issue                       |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster   6  |  Urgent Support Request               |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster  26  |  Security Issue                       |  Tickets: 8
+  Cluster  26  |  Security Issue                       |  Tickets: 8
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 8
+  Cluster  15  |  Error Message                        |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster   7  |  Productivity Issue                   |  Tickets: 8
+  Cluster  21  |  Account Access Issue                 |  Tickets: 8
+  Cluster  23  |  Account Recovery                     |  Tickets: 8
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 8
+  Cluster  15  |  Error Message                        |  Tickets: 8
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 8
+  Cluster  15  |  Error Message                        |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster  15  |  Error Message                        |  Tickets: 8
+  Cluster  17  |  Hardware Issue                       |  Tickets: 8
+  Cluster  18  |  Network Issue                        |  Tickets: 8
+  Cluster  15  |  Error Message                        |  Tickets: 8
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 8
+  Cluster  14  |  Software Issue                       |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster  13  |  Hardware Issue                       |  Tickets: 8
+  Cluster  12  |  Charging Issue                       |  Tickets: 8
+  Cluster  19  |  Configuration Issue                  |  Tickets: 8
+  Cluster  11  |  Hardware Issue                       |  Tickets: 8
+  Cluster  10  |  Hardware Issue                       |  Tickets: 8
+  Cluster   9  |  Network Issue                        |  Tickets: 8
+  Cluster  20  |  Data Recovery                        |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   3  |  Noise                                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   3  |  Noise                                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster   0  |  Firmware Update Error                |  Tickets: 8
+  Cluster  12  |  Charging Issue                       |  Tickets: 7
+  Cluster  17  |  Hardware Issue                       |  Tickets: 7
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 7
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 7
+  Cluster  17  |  Hardware Issue                       |  Tickets: 7
+  Cluster  23  |  Account Recovery                     |  Tickets: 7
+  Cluster  23  |  Account Recovery                     |  Tickets: 7
+  Cluster  12  |  Charging Issue                       |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster  12  |  Charging Issue                       |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster   7  |  Productivity Issue                   |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster   1  |  Application Issue                    |  Tickets: 7
+  Cluster   1  |  Application Issue                    |  Tickets: 7
+  Cluster  22  |  Account Locked                       |  Tickets: 7
+  Cluster  12  |  Charging Issue                       |  Tickets: 7
+  Cluster  12  |  Charging Issue                       |  Tickets: 7
+  Cluster  12  |  Charging Issue                       |  Tickets: 7
+  Cluster   2  |  Network Issue                        |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster   9  |  Network Issue                        |  Tickets: 7
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 7
+  Cluster   9  |  Network Issue                        |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster   9  |  Network Issue                        |  Tickets: 7
+  Cluster  13  |  Hardware Issue                       |  Tickets: 7
+  Cluster  20  |  Data Recovery                        |  Tickets: 7
+  Cluster   9  |  Network Issue                        |  Tickets: 7
+  Cluster  16  |  Application Crash                    |  Tickets: 7
+  Cluster  15  |  Error Message                        |  Tickets: 7
+  Cluster   6  |  Urgent Support Request               |  Tickets: 7
+  Cluster  10  |  Hardware Issue                       |  Tickets: 7
+  Cluster   3  |  Noise                                |  Tickets: 7
+  Cluster   7  |  Productivity Issue                   |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  18  |  Network Issue                        |  Tickets: 7
+  Cluster  15  |  Error Message                        |  Tickets: 7
+  Cluster   1  |  Application Issue                    |  Tickets: 7
+  Cluster  15  |  Error Message                        |  Tickets: 7
+  Cluster   0  |  Firmware Update Error                |  Tickets: 7
+  Cluster   6  |  Urgent Support Request               |  Tickets: 7
+  Cluster  15  |  Error Message                        |  Tickets: 7
+  Cluster  11  |  Hardware Issue                       |  Tickets: 7
+  Cluster  10  |  Hardware Issue                       |  Tickets: 7
+  Cluster  15  |  Error Message                        |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 7
+  Cluster  11  |  Hardware Issue                       |  Tickets: 7
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 7
+  Cluster  26  |  Security Issue                       |  Tickets: 7
+  Cluster   3  |  Noise                                |  Tickets: 7
+  Cluster  10  |  Hardware Issue                       |  Tickets: 7
+  Cluster   6  |  Urgent Support Request               |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 7
+  Cluster  21  |  Account Access Issue                 |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster   2  |  Network Issue                        |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster  21  |  Account Access Issue                 |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  14  |  Software Issue                       |  Tickets: 6
+  Cluster   3  |  Noise                                |  Tickets: 6
+  Cluster   1  |  Application Issue                    |  Tickets: 6
+  Cluster   7  |  Productivity Issue                   |  Tickets: 6
+  Cluster   7  |  Productivity Issue                   |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster   1  |  Application Issue                    |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster   7  |  Productivity Issue                   |  Tickets: 6
+  Cluster  21  |  Account Access Issue                 |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  14  |  Software Issue                       |  Tickets: 6
+  Cluster  14  |  Software Issue                       |  Tickets: 6
+  Cluster  11  |  Hardware Issue                       |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster   1  |  Application Issue                    |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 6
+  Cluster  11  |  Hardware Issue                       |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster   2  |  Network Issue                        |  Tickets: 6
+  Cluster  10  |  Hardware Issue                       |  Tickets: 6
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 6
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 6
+  Cluster  10  |  Hardware Issue                       |  Tickets: 6
+  Cluster   2  |  Network Issue                        |  Tickets: 6
+  Cluster   2  |  Network Issue                        |  Tickets: 6
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 6
+  Cluster  10  |  Hardware Issue                       |  Tickets: 6
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 6
+  Cluster  10  |  Hardware Issue                       |  Tickets: 6
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster   9  |  Network Issue                        |  Tickets: 6
+  Cluster  12  |  Charging Issue                       |  Tickets: 6
+  Cluster  13  |  Hardware Issue                       |  Tickets: 6
+  Cluster  14  |  Software Issue                       |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster  13  |  Hardware Issue                       |  Tickets: 6
+  Cluster  26  |  Security Issue                       |  Tickets: 6
+  Cluster  22  |  Account Locked                       |  Tickets: 6
+  Cluster  22  |  Account Locked                       |  Tickets: 6
+  Cluster  13  |  Hardware Issue                       |  Tickets: 6
+  Cluster  22  |  Account Locked                       |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  12  |  Charging Issue                       |  Tickets: 6
+  Cluster   9  |  Network Issue                        |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  12  |  Charging Issue                       |  Tickets: 6
+  Cluster  12  |  Charging Issue                       |  Tickets: 6
+  Cluster  23  |  Account Recovery                     |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  11  |  Hardware Issue                       |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster  17  |  Hardware Issue                       |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster  17  |  Hardware Issue                       |  Tickets: 6
+  Cluster  17  |  Hardware Issue                       |  Tickets: 6
+  Cluster   3  |  Noise                                |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster  19  |  Configuration Issue                  |  Tickets: 6
+  Cluster  17  |  Hardware Issue                       |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster  16  |  Application Crash                    |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster   1  |  Application Issue                    |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster  18  |  Network Issue                        |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster  18  |  Network Issue                        |  Tickets: 6
+  Cluster  18  |  Network Issue                        |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster  18  |  Network Issue                        |  Tickets: 6
+  Cluster   0  |  Firmware Update Error                |  Tickets: 6
+  Cluster  19  |  Configuration Issue                  |  Tickets: 6
+  Cluster   4  |  Hardware Issue                       |  Tickets: 6
+  Cluster  19  |  Configuration Issue                  |  Tickets: 6
+  Cluster  19  |  Configuration Issue                  |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster  17  |  Hardware Issue                       |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster  16  |  Application Crash                    |  Tickets: 6
+  Cluster   3  |  Noise                                |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster  15  |  Error Message                        |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster  16  |  Application Crash                    |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster  16  |  Application Crash                    |  Tickets: 6
+  Cluster  16  |  Application Crash                    |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster   3  |  Noise                                |  Tickets: 6
+  Cluster  20  |  Data Recovery                        |  Tickets: 6
+  Cluster   6  |  Urgent Support Request               |  Tickets: 6
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster   3  |  Noise                                |  Tickets: 5
+  Cluster   2  |  Network Issue                        |  Tickets: 5
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  20  |  Data Recovery                        |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  20  |  Data Recovery                        |  Tickets: 5
+  Cluster   2  |  Network Issue                        |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster   2  |  Network Issue                        |  Tickets: 5
+  Cluster   2  |  Network Issue                        |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  11  |  Hardware Issue                       |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  21  |  Account Access Issue                 |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  13  |  Hardware Issue                       |  Tickets: 5
+  Cluster   3  |  Noise                                |  Tickets: 5
+  Cluster  13  |  Hardware Issue                       |  Tickets: 5
+  Cluster  22  |  Account Locked                       |  Tickets: 5
+  Cluster  13  |  Hardware Issue                       |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  22  |  Account Locked                       |  Tickets: 5
+  Cluster   4  |  Hardware Issue                       |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  21  |  Account Access Issue                 |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  13  |  Hardware Issue                       |  Tickets: 5
+  Cluster  22  |  Account Locked                       |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  16  |  Application Crash                    |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  12  |  Charging Issue                       |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  14  |  Software Issue                       |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  12  |  Charging Issue                       |  Tickets: 5
+  Cluster  19  |  Configuration Issue                  |  Tickets: 5
+  Cluster  12  |  Charging Issue                       |  Tickets: 5
+  Cluster  17  |  Hardware Issue                       |  Tickets: 5
+  Cluster  23  |  Account Recovery                     |  Tickets: 5
+  Cluster  15  |  Error Message                        |  Tickets: 5
+  Cluster  22  |  Account Locked                       |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster  18  |  Network Issue                        |  Tickets: 5
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 5
+  Cluster  26  |  Security Issue                       |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster  27  |  Guidance Request                     |  Tickets: 5
+  Cluster   7  |  Productivity Issue                   |  Tickets: 5
+  Cluster   7  |  Productivity Issue                   |  Tickets: 5
+  Cluster  27  |  Guidance Request                     |  Tickets: 5
+  Cluster  27  |  Guidance Request                     |  Tickets: 5
+  Cluster   7  |  Productivity Issue                   |  Tickets: 5
+  Cluster  26  |  Security Issue                       |  Tickets: 5
+  Cluster   7  |  Productivity Issue                   |  Tickets: 5
+  Cluster   7  |  Productivity Issue                   |  Tickets: 5
+  Cluster   7  |  Productivity Issue                   |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster  26  |  Security Issue                       |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster  26  |  Security Issue                       |  Tickets: 5
+  Cluster  26  |  Security Issue                       |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster   9  |  Network Issue                        |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster   9  |  Network Issue                        |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster   9  |  Network Issue                        |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster   3  |  Noise                                |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster   4  |  Hardware Issue                       |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   4  |  Hardware Issue                       |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   4  |  Hardware Issue                       |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 5
+  Cluster   0  |  Firmware Update Error                |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster   6  |  Urgent Support Request               |  Tickets: 5
+  Cluster   9  |  Network Issue                        |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster   1  |  Application Issue                    |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster  25  |  Software Issue                       |  Tickets: 5
+  Cluster  10  |  Hardware Issue                       |  Tickets: 5
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  27  |  Guidance Request                     |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  27  |  Guidance Request                     |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster   1  |  Application Issue                    |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster   2  |  Network Issue                        |  Tickets: 4
+  Cluster   6  |  Urgent Support Request               |  Tickets: 4
+  Cluster   6  |  Urgent Support Request               |  Tickets: 4
+  Cluster   2  |  Network Issue                        |  Tickets: 4
+  Cluster  15  |  Error Message                        |  Tickets: 4
+  Cluster  20  |  Data Recovery                        |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster  15  |  Error Message                        |  Tickets: 4
+  Cluster  15  |  Error Message                        |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster   2  |  Network Issue                        |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster   1  |  Application Issue                    |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster   1  |  Application Issue                    |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster  27  |  Guidance Request                     |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster  10  |  Hardware Issue                       |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster  15  |  Error Message                        |  Tickets: 4
+  Cluster  15  |  Error Message                        |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster  15  |  Error Message                        |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster   6  |  Urgent Support Request               |  Tickets: 4
+  Cluster   6  |  Urgent Support Request               |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster   6  |  Urgent Support Request               |  Tickets: 4
+  Cluster  10  |  Hardware Issue                       |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster   0  |  Firmware Update Error                |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster   0  |  Firmware Update Error                |  Tickets: 4
+  Cluster  19  |  Configuration Issue                  |  Tickets: 4
+  Cluster   0  |  Firmware Update Error                |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  19  |  Configuration Issue                  |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster  18  |  Network Issue                        |  Tickets: 4
+  Cluster   0  |  Firmware Update Error                |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster  16  |  Application Crash                    |  Tickets: 4
+  Cluster  10  |  Hardware Issue                       |  Tickets: 4
+  Cluster  19  |  Configuration Issue                  |  Tickets: 4
+  Cluster  19  |  Configuration Issue                  |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster  19  |  Configuration Issue                  |  Tickets: 4
+  Cluster  10  |  Hardware Issue                       |  Tickets: 4
+  Cluster   4  |  Hardware Issue                       |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster  17  |  Hardware Issue                       |  Tickets: 4
+  Cluster  10  |  Hardware Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  13  |  Hardware Issue                       |  Tickets: 4
+  Cluster  26  |  Security Issue                       |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 4
+  Cluster  26  |  Security Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  26  |  Security Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster   2  |  Network Issue                        |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster   9  |  Network Issue                        |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster  23  |  Account Recovery                     |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster  12  |  Charging Issue                       |  Tickets: 4
+  Cluster  25  |  Software Issue                       |  Tickets: 4
+  Cluster   3  |  Noise                                |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster   7  |  Productivity Issue                   |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  11  |  Hardware Issue                       |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster   1  |  Application Issue                    |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  26  |  Security Issue                       |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  26  |  Security Issue                       |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster  21  |  Account Access Issue                 |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  22  |  Account Locked                       |  Tickets: 4
+  Cluster  14  |  Software Issue                       |  Tickets: 4
+  Cluster  26  |  Security Issue                       |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster  26  |  Security Issue                       |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  26  |  Security Issue                       |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  23  |  Account Recovery                     |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster   0  |  Firmware Update Error                |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  27  |  Guidance Request                     |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster   0  |  Firmware Update Error                |  Tickets: 3
+  Cluster  20  |  Data Recovery                        |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster  25  |  Software Issue                       |  Tickets: 3
+  Cluster  22  |  Account Locked                       |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster  19  |  Configuration Issue                  |  Tickets: 3
+  Cluster   1  |  Application Issue                    |  Tickets: 3
+  Cluster  21  |  Account Access Issue                 |  Tickets: 3
+  Cluster   2  |  Network Issue                        |  Tickets: 3
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster  15  |  Error Message                        |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   8  |  Data Recovery                        |  Tickets: 3
+  Cluster   8  |  Data Recovery                        |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster  14  |  Software Issue                       |  Tickets: 3
+  Cluster   9  |  Network Issue                        |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  13  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster  12  |  Charging Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster  11  |  Hardware Issue                       |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster  16  |  Application Crash                    |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster  16  |  Application Crash                    |  Tickets: 3
+  Cluster  16  |  Application Crash                    |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster  16  |  Application Crash                    |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   6  |  Urgent Support Request               |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster  16  |  Application Crash                    |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  17  |  Hardware Issue                       |  Tickets: 3
+  Cluster   3  |  Noise                                |  Tickets: 3
+  Cluster   6  |  Urgent Support Request               |  Tickets: 3
+  Cluster  15  |  Error Message                        |  Tickets: 3
+  Cluster   7  |  Productivity Issue                   |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  15  |  Error Message                        |  Tickets: 3
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster  18  |  Network Issue                        |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster   4  |  Hardware Issue                       |  Tickets: 3
+  Cluster  16  |  Application Crash                    |  Tickets: 3
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster   0  |  Firmware Update Error                |  Tickets: 2
+  Cluster  24  |  Intermittent Issue                   |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   0  |  Firmware Update Error                |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster  10  |  Hardware Issue                       |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   8  |  Data Recovery                        |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster   8  |  Data Recovery                        |  Tickets: 2
+  Cluster   8  |  Data Recovery                        |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   8  |  Data Recovery                        |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster  26  |  Security Issue                       |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   7  |  Productivity Issue                   |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster   4  |  Hardware Issue                       |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster   1  |  Application Issue                    |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster  27  |  Guidance Request                     |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster   9  |  Network Issue                        |  Tickets: 2
+  Cluster  25  |  Software Issue                       |  Tickets: 2
+  Cluster   8  |  Data Recovery                        |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster   2  |  Network Issue                        |  Tickets: 2
+  Cluster   2  |  Network Issue                        |  Tickets: 2
+  Cluster   2  |  Network Issue                        |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   2  |  Network Issue                        |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  11  |  Hardware Issue                       |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  21  |  Account Access Issue                 |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  14  |  Software Issue                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  17  |  Hardware Issue                       |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  18  |  Network Issue                        |  Tickets: 2
+  Cluster  17  |  Hardware Issue                       |  Tickets: 2
+  Cluster  17  |  Hardware Issue                       |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  17  |  Hardware Issue                       |  Tickets: 2
+  Cluster   3  |  Noise                                |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  17  |  Hardware Issue                       |  Tickets: 2
+  Cluster  17  |  Hardware Issue                       |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  19  |  Configuration Issue                  |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster   2  |  Network Issue                        |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  16  |  Application Crash                    |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  23  |  Account Recovery                     |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  23  |  Account Recovery                     |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  23  |  Account Recovery                     |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  23  |  Account Recovery                     |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 2
+  Cluster  23  |  Account Recovery                     |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  23  |  Account Recovery                     |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  13  |  Hardware Issue                       |  Tickets: 2
+  Cluster  22  |  Account Locked                       |  Tickets: 2
+  Cluster  12  |  Charging Issue                       |  Tickets: 1
+  Cluster  10  |  Hardware Issue                       |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster  12  |  Charging Issue                       |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  16  |  Application Crash                    |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  16  |  Application Crash                    |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  16  |  Application Crash                    |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  16  |  Application Crash                    |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster   7  |  Productivity Issue                   |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  19  |  Configuration Issue                  |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster  19  |  Configuration Issue                  |  Tickets: 1
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 1
+  Cluster   3  |  Noise                                |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster  23  |  Account Recovery                     |  Tickets: 1
+  Cluster  12  |  Charging Issue                       |  Tickets: 1
+  Cluster  18  |  Network Issue                        |  Tickets: 1
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 1
+  Cluster  18  |  Network Issue                        |  Tickets: 1
+  Cluster  18  |  Network Issue                        |  Tickets: 1
+  Cluster   4  |  Hardware Issue                       |  Tickets: 1
+  Cluster   4  |  Hardware Issue                       |  Tickets: 1
+  Cluster  23  |  Account Recovery                     |  Tickets: 1
+  Cluster  18  |  Network Issue                        |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 1
+  Cluster  12  |  Charging Issue                       |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster  19  |  Configuration Issue                  |  Tickets: 1
+  Cluster   6  |  Urgent Support Request               |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster  17  |  Hardware Issue                       |  Tickets: 1
+  Cluster  23  |  Account Recovery                     |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster   4  |  Hardware Issue                       |  Tickets: 1
+  Cluster  19  |  Configuration Issue                  |  Tickets: 1
+  Cluster   3  |  Noise                                |  Tickets: 1
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 1
+  Cluster  19  |  Configuration Issue                  |  Tickets: 1
+  Cluster  19  |  Configuration Issue                  |  Tickets: 1
+  Cluster   5  |  Battery Life Issue                   |  Tickets: 1
+  Cluster  16  |  Application Crash                    |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  25  |  Software Issue                       |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  25  |  Software Issue                       |  Tickets: 1
+  Cluster  23  |  Account Recovery                     |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   9  |  Network Issue                        |  Tickets: 1
+  Cluster  13  |  Hardware Issue                       |  Tickets: 1
+  Cluster  14  |  Software Issue                       |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  14  |  Software Issue                       |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   9  |  Network Issue                        |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  25  |  Software Issue                       |  Tickets: 1
+  Cluster   9  |  Network Issue                        |  Tickets: 1
+  Cluster  25  |  Software Issue                       |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  25  |  Software Issue                       |  Tickets: 1
+  Cluster  25  |  Software Issue                       |  Tickets: 1
+  Cluster  10  |  Hardware Issue                       |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster  10  |  Hardware Issue                       |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   3  |  Noise                                |  Tickets: 1
+  Cluster  10  |  Hardware Issue                       |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   3  |  Noise                                |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster   7  |  Productivity Issue                   |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  27  |  Guidance Request                     |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   7  |  Productivity Issue                   |  Tickets: 1
+  Cluster   9  |  Network Issue                        |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  13  |  Hardware Issue                       |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  13  |  Hardware Issue                       |  Tickets: 1
+  Cluster   7  |  Productivity Issue                   |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster  13  |  Hardware Issue                       |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+  Cluster  13  |  Hardware Issue                       |  Tickets: 1
+  Cluster  14  |  Software Issue                       |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster  21  |  Account Access Issue                 |  Tickets: 1
+  Cluster   7  |  Productivity Issue                   |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster  14  |  Software Issue                       |  Tickets: 1
+  Cluster  22  |  Account Locked                       |  Tickets: 1
+  Cluster  14  |  Software Issue                       |  Tickets: 1
+  Cluster   1  |  Application Issue                    |  Tickets: 1
+  Cluster  14  |  Software Issue                       |  Tickets: 1
+  Cluster   2  |  Network Issue                        |  Tickets: 1
+  Cluster   7  |  Productivity Issue                   |  Tickets: 1
+  Cluster   8  |  Data Recovery                        |  Tickets: 1
+
+==========================================================================================
+NOISE TICKETS (total: 125)
+==========================================================================================
+[1] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem you should write a command to i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[2] a user has reported a problem please enable javascript to view the report a browser error has occurred please hold the shift key and
+······································································
+[3] i m facing issues logging into my account it says my account is locked what should i do to unlock it please contact me and explain thank you and have a great day i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[4] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account yes i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[5] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem product available is also unable to establish a stable internet connection i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[6] please enable javascript to view the comments powered by disqus thanks very much disqus
+······································································
+[7] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem we recommend you test your isp s internal network in the next week or i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[8] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue as promised the i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[9] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem sometime in the future the user may need to change the default i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[10] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account you cannot you i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[11] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[12] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account by using the free i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[13] please enable javascript to view the comments powered by disqus disqus i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[14] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account no you i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[15] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem please use the following methods to help identify the network i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[16] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem the device being booted will not recognize dhcp packets for an ip address i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[17] i m facing issues logging into my account it says my account is locked what should i do to unlock it i am unable to unlock my account with no options other than shut down this app immediately i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[18] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue all you need to do is i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[19] i m facing issues logging into my account it says my account is locked what should i do to unlock it it looks like my phone is locked and i cannot use my account i m logged off i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[20] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue the solution is to i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[21] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue my laptop is not i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[22] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account the best i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[23] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem don t connect to this account with an older network password if i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[24] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account the correct i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[25] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue how do i restart i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[26] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue how to use your existing router i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[27] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem read more tests and feedback help determine correct or incorrect configuration of an i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[28] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account i purchased the product i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[29] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account to restore i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[30] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue to go to settings network i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[31] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i have a new i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[32] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[33] please enable javascript to view the comments powered by disqus disqus i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[34] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account by making changes to i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[35] i ve forgotten my password for my account and the password reset option is not working how can i recover my account you can restore your account and make a new one or you can delete your i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[36] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account step i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[37] i m facing issues logging into my account it says my account is locked what should i do to unlock it if logging into a system that won t allow password recovery for userssnl has it i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[38] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue solution turn off i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[39] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i can try to i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[40] i m facing issues logging into my account it says my account is locked what should i do to unlock it please see the following instructions if you have not heard from us on this i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[41] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem make sure you are using the latest version of chrome i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[42] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue michael cat i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[43] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account in my i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[44] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[45] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue connect the router and i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[46] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i was able to find the i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[47] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue try this i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[48] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account you can i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[49] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue it would be great i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[50] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account this is i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[51] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i need to go out and i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[52] i ve forgotten my password for my account and the password reset option is not working how can i recover my account if your account is not active that s because you are not authenticated if i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[53] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue to address this issue i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[54] i m facing issues logging into my account it says my account is locked what should i do to unlock it you have no rights in this situation for more information refer to your account management i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[55] i ve forgotten my password for my account and the password reset option is not working how can i recover my account here s how open your login page and change the default password on the left i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[56] i ve forgotten my password for my account and the password reset option is not working how can i recover my account the password will be changed to bunker as soon i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[57] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account here s what you i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[58] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account if your i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[59] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue we can use i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[60] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem you can create an internal network address i e a dns i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[61] please enable javascript to view the comments powered by disqus disqus this problem started occurring after the recent software update i haven t made any other changes to the device
+······································································
+[62] i ve forgotten my password for my account and the password reset option is not working how can i recover my account if your account is registered in any of the below countries and you want to contact i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[63] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue the wi fi i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[64] i ve forgotten my password for my account and the password reset option is not working how can i recover my account reaching we need to contact the email address that was your i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[65] i ve forgotten my password for my account and the password reset option is not working how can i recover my account step contact the provider step get a mobile certificate i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[66] please enable javascript to view the comments powered by disqus
+······································································
+[67] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account this is i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[68] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue a good way to get back i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[69] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account i used i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[70] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue click here to download i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[71] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue first of all enable the i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[72] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue the connecting devices i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[73] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account by resetting the i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[74] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account if i reset the i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[75] i had no idea what the code looked like until i was reading all the comments and everything i m trying to make sure everything still works properly i
+······································································
+[76] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue in my case i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[77] please enable javascript to view the comments powered by disqus disqus i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[78] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue the user in question i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[79] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem network you can change your ip address using a username and password i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[80] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[81] please enable javascript to view the comments powered by disqus i m unable to find the option to perform the desired action in the could you please guide me through the steps
+······································································
+[82] i ve forgotten my password for my account and the password reset option is not working how can i recover my account the password reset feature of the password manager was removed at the i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[83] please enable javascript to view the comments powered by disqus comments powered by disqus i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[84] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue we have found a solution i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[85] i ve forgotten my password for my account and the password reset option is not working how can i recover my account how did it reset my password how can i remove and modify this i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[86] please enable javascript to view the comments powered by disqus the issue i m facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+······································································
+[87] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account this page is going i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[88] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account contact the site admin i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[89] i ve forgotten my password for my account and the password reset option is not working how can i recover my account what do i do if i want to restore my retail version of my i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[90] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue can i install a i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[91] i ve forgotten my password for my account and the password reset option is not working how can i recover my account to recover your login choose create account and then confirm password when i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[92] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account my products i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[93] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue connect to a connected i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[94] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account the last i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[95] i m facing issues logging into my account it says my account is locked what should i do to unlock it i ve already checked my account balance but you might want to think about setting it after i i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[96] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue the solution is to i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[97] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem there is no way of stopping disconnecting the main internet connections of your i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[98] please enable javascript to view the comments powered by disqus disqus
+······································································
+[99] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue my default location is on the i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[100] thank you please enable javascript to view the comments powered by disqus i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[101] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account you can either get i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[102] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue we re still working to answer i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[103] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i ll be sending i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[104] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue for devices which have i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[105] i m facing issues logging into my account it says my account is locked what should i do to unlock it login i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[106] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue the solution is to i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[107] as you know this is not a good user experience this might result in your subscription being cancelled deleted and or not being available for your account please i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[108] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i have a google nexus i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[109] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account if your i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[110] i m facing issues logging into my account it says my account is locked what should i do to unlock it this is a question i ve seen many times to help me with this i ve i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[111] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i ve noticed a sudden decrease in battery life on my it used to last much longer
+······································································
+[112] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account you should i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[113] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue after i get my i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[114] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue please submit a i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[115] please enable javascript to view the comments powered by disqus
+······································································
+[116] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account the only i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[117] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i m trying to i need assistance as soon as possible because it s affecting my work and productivity
+······································································
+[118] please enable javascript to view the comments powered by disqus i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[119] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue i ve noticed an i rely heavily on my for my daily tasks and this issue is hindering my productivity
+······································································
+[120] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue if you continue to i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[121] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue connect the product p i m concerned about the security of my and would like to ensure that my data is safe
+······································································
+[122] the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem you may want to do some damage to the router or to your modem i ve noticed a peculiar error message popping up on my screen it says what does it mean
+······································································
+[123] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account if your i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[124] i m unable to access my account it keeps displaying an invalid credentials error even though i m using the correct login information how can i regain access to my account the following command tries i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
+[125] i m having trouble connecting my to my home wi fi network it doesn t detect any networks although other devices are connecting fine what can be done to resolve this issue graft one device over another if i ve recently updated the firmware of my and the issue started happening afterward could it be related to the update
+······································································
