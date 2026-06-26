@@ -7,7 +7,7 @@ ticket_final.py
 predict.py
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 Run the scripts in the following order.
 
